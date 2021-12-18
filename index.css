@@ -1,0 +1,42 @@
+body{
+	margin-top: 150px;
+	margin-left: 50px;
+	background-color: #474333;
+}
+
+h1 	{
+	margin-left: 200px;
+	font-size: 100px;
+	text-shadow: -2px 2px 0px #e8dfc5;
+
+}
+	
+#schuinenav	{
+	
+}
+	
+#A1	{
+		font-size: 20px;
+		margin-left: 200px; 
+		margin-right: -200px; 
+		
+	
+		
+		background-color: #ccab58;
+		box-shadow: -4px 4px #e8dfc5;
+	}
+	
+#A2	{
+		font-size: 13px;
+		margin-right: -100px; 
+		margin-left: 150px; 
+		margin-top: 10px; 
+		
+		
+		background-color: #bacc58;
+		box-shadow: -4px 4px #e8dfc5;
+	}
+	
+body{
+	transform: rotate(10deg);
+}
