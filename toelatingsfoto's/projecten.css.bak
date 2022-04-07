@@ -1,0 +1,31 @@
+body {
+	background-color: black;
+	margin: 0;
+}
+
+.row {
+  display: flex;
+  height: 73vh;
+  width: 70vw;
+  margin-left: 15vw;
+  margin-top: 14vh;
+  margin-bottom: 13vh;
+}
+
+.column {
+  min-width: 0; /* new */
+  max-height: 100vh;
+  flex: 1;      /* adjustment */
+  overflow: hidden;
+  border: 2px solid #000;
+  transition: all 300ms ease-in-out;
+  background-color: yellow;
+}
+
+.foto {
+}
+
+.column:hover {
+  flex-grow: 10.3;
+}
+
