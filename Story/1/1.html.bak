@@ -1,0 +1,43 @@
+<html>
+	<head>
+		<title>storytime!!</title>
+		<link rel="stylesheet" href="../storyframe.css">
+	</head>
+	
+	<body>
+		<div id="backtomenu">
+			<a href="../../index.html"><img src="../../backtoblack.png"></img></a>
+		</div>
+		
+		<div id="midsquare">
+			<div id="theatre">
+			
+				<h1>
+				Act 1:
+				</h1>
+				
+				<body>
+					<img id="scene" src="notule.png" alt="2">
+				</body>
+				
+				
+				<p>
+				lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum 
+				ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum 
+				lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum 
+				lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum 
+				</p>
+				
+				<div id="prvpage">
+					<a href="../../storyframe.html"><img src="../../prv.png"></img></a>
+				</div>
+				
+				<div id="nxtpage">
+					<a href="../2/2.html"><img src="../../nxt.png"></img></a>
+				</div>
+			</div>
+		</div>
+		
+		
+	</body>
+</html>

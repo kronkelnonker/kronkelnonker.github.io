@@ -13,21 +13,21 @@
 		</div>
 
 		<div class="row">
-		  <div class="column"><a href="https://google.com"><img class="foto" src="kronkelIcon.jpg"></img></a></div>
-		  <div class="column"><a href="https://mail.google.com/mail/u/0/#inbox"><img class="foto" src="kronkelIcon.jpg"></img></a></div>
-		  <div class="column"><a href="https://forum.svliber.nl/"><img class="foto" src="kronkelIcon.jpg"></img></a></div>
-		  <div class="column"><a href="https://www.twitch.tv/"><img class="foto" src="kronkelIcon.jpg"></img></a></div>
-		  <div class="column"><a href="https://www.youtube.com"><img class="foto" src="kronkelIcon.jpg"></img></a></div>
-		  <div class="column"><a href="https://drive.google.com/drive/u/0/my-drive"><img class="foto" src="kronkelIcon.jpg"></img></a></div>
-		  <div class="column"><a href="https://forum.svliber.nl/"><img class="foto" src="kronkelIcon.jpg"></img></a></div>
-		  <div class="column"><a href="https://forum.svliber.nl/"><img class="foto" src="kronkelIcon.jpg"></img></a></div>
+		  <div class="column"><a href="https://google.com"><img class="foto" src="link1.png"></img></a></div>
+		  <div class="column"><a href="https://mail.google.com/mail/u/0/#inbox"><img class="foto" src="link2.png"></img></a></div>
+		  <div class="column"><a href="https://forum.svliber.nl/"><img class="foto" src="link3.png"></img></a></div>
+		  <div class="column"><a href="https://www.twitch.tv/"><img class="foto" src="link5.png"></img></a></div>
+		  <div class="column"><a href="https://www.youtube.com"><img class="foto" src="link4.png"></img></a></div>
+		  <div class="column"><a href="https://drive.google.com/drive/u/0/my-drive"><img class="foto" src="link6.png"></img></a></div>
+		  <div class="column"><a href="https://www.room.nl/my-room/inloggen"><img class="foto" src="link7.png"></img></a></div>
+		  <div class="column"><a href="https://discovery.canvas.login.vu.nl/"><img class="foto" src="link8.png"></img></a></div>
 		</div>
 
 		<nav>
 			<div id="schuinenav">
 				<a href="toelatingsfoto's/projecten.html"><img src="kronkelIcon.jpg" alt="projecten!" width="75" height="75"></a>
 				<a href="games/games.html"><img src="kronkelIcon2.png" alt="games!" width="75" height="75"></a>
-				<a href="projecten.html"><img src="kronkelIcon.jpg" alt="projecten!" width="75" height="75"></a>
+				<a href="story/storyframe.html"><img src="kronkelIcon.jpg" alt="projecten!" width="75" height="75"></a>
 			</div>
 		</nav>
 		
