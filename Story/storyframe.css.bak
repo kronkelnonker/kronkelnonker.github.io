@@ -3,6 +3,7 @@ body{
 	background-image: url("../channels4_banner.jpg");
 	height: 100%;
 	margin-top: -100px;
+	font: italic "Fira Sans", serif;
 }
 
 #backtomenu {
@@ -38,7 +39,7 @@ h1{
 }
 
 p{
-	padding: 4px;
+	padding: 8px;
 	font-size: 20px;
 	background-color: white;
 	margin-bottom: 50px;

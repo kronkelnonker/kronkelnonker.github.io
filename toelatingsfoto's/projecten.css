@@ -22,6 +22,11 @@ body {
   background-color: yellow;
 }
 
+.column:hover {
+  flex-grow: 10.3;
+}
+
+
 #backtomenu {
 	top: -1vh;
 	left: -1vh;
@@ -30,7 +35,4 @@ body {
 	
 }
 
-.column:hover {
-  flex-grow: 10.3;
-}
 

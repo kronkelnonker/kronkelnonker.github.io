@@ -1,0 +1,74 @@
+@font-face {
+	font-family: florisfont;
+	src: url(Floris-Regular.ttf);
+}
+
+body {
+	background-image: url("gusart.png");
+	background-size: cover;
+	background-position: center;
+	overflow: Scrollbar;
+	height: 100%;
+}
+
+#backtomenu {
+	top: -1vh;
+	left: -1vh;
+	transform-origin: center center;
+	position:fixed;
+	
+}
+
+.row {
+	margin-top: 10vh;
+	margin-left: 40vh;
+}
+
+.row2 {
+	
+	margin-top: -123vh;
+	margin-left: 110vh;
+}
+
+#explanation {
+	background-color: #e8ca79;
+	font-family: florisfont;
+	font-size: 40px;
+	
+	border: 10px solid #000005;
+	
+	padding: 10px;
+	width: 380px;
+	height: 200px;
+	
+	margin-bottom: 1vh;
+}
+
+#gu1 {
+	border: 10px solid #000005;
+	height: 400px;
+	width: 400px;
+}
+
+#gu2 {
+	border: 10px solid #000005;
+	height: 400px;
+	width: 400px;
+}
+
+#gue1 {
+	border: 10px solid #000005;
+	height: 400px;
+	width: 400px;
+}
+
+#gue2 {
+	border: 10px solid #000005;
+	height: 400px;
+	width: 400px;
+}
+
+.music {
+	margin-top: 10px;
+	margin-left: -360px;
+}
