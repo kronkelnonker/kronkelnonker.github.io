@@ -10,6 +10,7 @@ body{
 	margin-left: -200px;
 	margin-right: -200px;
 	background-color: #f0e9a3;
+	box-shadow: 4px 4px black;
 }
 
 .tech-slideshow {
@@ -42,6 +43,22 @@ body{
   }
 }
 
+#naam	{
+	position: absolute;
+	color: #121210;
+	white-space: nowrap;
+	bottom: 500px;
+	font-size: 100px;
+	margin-left: -400px;
+	text-shadow: 0px 3px black;
+}
+
+#backimage	{
+	position: absolute;
+	width: 100vw;
+	object-fit: contain; 
+}
+
 #blackleft	{
 	position: absolute;
 	left: -15vw;
@@ -52,83 +69,36 @@ body{
 
 #blackright	{
 	position: absolute;
-	left: 40vw;
+	left: 90vw;
 	background-color: #121210;
 	width: 3000px;
 	height: 3000px;
 }
 
-#blacktop	{
-	position: absolute;
-	left: -10vw;
-	background-color: #121210;
-	width: 800vw;
-	height: 20px;
+#straat{
+	display: flex;
 }
 
-#head1 	{
-	padding-top: 20px;
-	padding-left: 300px;
-	margin-left: -175px;
-	margin-right: -200px;
-	font-size: 50px;
-	text-shadow: -2px 2px 0px #e8dfc5;
-	background-color: #ccab58;
-	box-shadow: -4px 4px #e8dfc5;
-}
-	
-.row {
-  position: absolute;
-  display: flex;
-  height: 350px;
-  width: 450px;
-  left: 115px;
-  top: 850px;
-  flex-direction: column;
+#pointout {
+	position: relative;
+	margin-left: 5.5vw;
+	padding-left: 5px;
+	margin-right: 2vw;
+	padding-right: 5px;
+	margin-top: 5px;
+	background-image: url(channels4_banner.png);
+	max-height: 20px;
+
+	-webkit-text-stroke: 1px black;
 }
 
-.column {
-  min-width: 0; /* new */
-  max-height: 100vh;
-  flex: 1;      /* adjustment */
-  overflow: hidden;
-  border: 2px solid #000;
-  transition: all 300ms ease-in-out;
-  background-color: yellow;
-}
-
-.column:hover {
-  flex-grow: 10.3;
-}	
-	
-#A1	{
-		font-size: 20px;
-		padding-left: 300px;
-		margin-left: -175px; 
-		margin-right: -200px; 
-		
-		background-color: #ccab58;
-		box-shadow: -4px 4px #e8dfc5;
-	}
-	
-#A2	{
-		font-size: 15px;
-		padding-left: 300px;
-		margin-left: -175px; 
-		margin-right: -200px; 
-		margin-top: 10px; 
-		
-		background-color: #bacc58;
-		box-shadow: -4px 4px #e8dfc5;
-	}
-	
 #sidebox	{
 	position: relative;
-	margin-left: 45vw;
-	margin-top: -120px;
-	max-height: 650px;
+	max-width: 40%;
 	background-color: #c6d68b;
 	overflow: scroll;
+	box-shadow: 5px 5px black;
+	margin-right: 8vw;
 }
 
 #sideboxinside {
@@ -136,9 +106,17 @@ body{
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-bottom: 10px;
-
 	padding-top: 10px;
 }	
+
+#sideimage	{
+	position: relative;
+	width: 15vw;
+	height: 40vh;
+	margin-top: 5vh;
+	box-shadow: 5px 5px black;
+}
+	
 	
 	
 body{

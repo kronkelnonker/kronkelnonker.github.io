@@ -9,6 +9,9 @@ body {
 	background-position: center;
 	overflow: Scrollbar;
 	height: 100%;
+	display: flex;
+	justify-content: center;
+	padding-left: 100px;
 }
 
 #backtomenu {
@@ -20,55 +23,86 @@ body {
 }
 
 .row {
-	margin-top: 10vh;
-	margin-left: 40vh;
+	margin-top: 20px;
+	padding-left: 4px;
+	padding-right: 4px;
 }
 
 .row2 {
-	
-	margin-top: -123vh;
-	margin-left: 110vh;
+	margin-top: 20px;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+.row3 {
+	margin-top: 20px;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+.row4 {
+	margin-top: 20px;
+	padding-left: 4px;
+	padding-right: 4px;
 }
 
 #explanation {
 	background-color: #e8ca79;
 	font-family: florisfont;
-	font-size: 40px;
+	font-size: 35px;
 	
 	border: 10px solid #000005;
 	
-	padding: 10px;
-	width: 380px;
+	padding: 15px;
+	width: 270px;
 	height: 200px;
 	
-	margin-bottom: 1vh;
+	margin-bottom: 10px;
+}
+
+#audioalign {
+	margin-top: auto;
+	
 }
 
 #gu1 {
 	border: 10px solid #000005;
-	height: 400px;
-	width: 400px;
+	height: 300px;
+	width: 300px;
 }
 
 #gu2 {
 	border: 10px solid #000005;
-	height: 400px;
-	width: 400px;
+	height: 300px;
+	width: 300px;
 }
 
 #gue1 {
 	border: 10px solid #000005;
-	height: 400px;
-	width: 400px;
+	height: 300px;
+	width: 300px;
 }
 
 #gue2 {
 	border: 10px solid #000005;
-	height: 400px;
-	width: 400px;
+	height: 300px;
+	width: 300px;
 }
 
-.music {
-	margin-top: 10px;
-	margin-left: -360px;
+h2 {
+	font-family: "Courier New";
+}
+
+.music { 
+	font-family: "Courier New";
+	margin-top: -310px;
+	margin-left: 20px;
+}
+
+#guramid {
+	height: 90px;
+	width: 90px;
+	position: fixed;
+	top: 200px;
+	left: 30px;
 }

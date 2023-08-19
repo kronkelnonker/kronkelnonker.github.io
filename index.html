@@ -6,67 +6,55 @@
 		<link rel="stylesheet" href="index.css">
 	</head>
 
+	<script> 
+		function changeImage(which)
+		{
+			document.getElementById('backimage').src = which;
+			return false;
+		}
+	</script>
+
 	<body>
+		
 		<div class="tech-slideshow">
 		  <div class="mover-1"></div>
 		  <div class="mover-2"></div>
 		</div>
 
-		<div class="row">
-		  <div class="column"><a href="https://google.com"><img class="foto" src="link1.png"></img></a></div>
-		  <div class="column"><a href="https://mail.google.com/mail/u/0/#inbox"><img class="foto" src="link2.png"></img></a></div>
-		  <div class="column"><a href="https://forum.svliber.nl/"><img class="foto" src="link3.png"></img></a></div>
-		  <div class="column"><a href="https://www.twitch.tv/"><img class="foto" src="link5.png"></img></a></div>
-		  <div class="column"><a href="https://www.youtube.com"><img class="foto" src="link4.png"></img></a></div>
-		  <div class="column"><a href="https://drive.google.com/drive/u/0/my-drive"><img class="foto" src="link6.png"></img></a></div>
-		  <div class="column"><a href="https://www.room.nl/my-room/inloggen"><img class="foto" src="link7.png"></img></a></div>
-		  <div class="column"><a href="https://discovery.canvas.login.vu.nl/"><img class="foto" src="link8.png"></img></a></div>
-		</div>
+		<div id="naam">KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER<br>
+						NONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER<br>
+						KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER</div>
 
 		<nav>
 			<div id="schuinenav">
-				<a href="toelatingsfoto's/projecten.html"><img src="kronkelIcon.jpg" alt="projecten!" width="75" height="75"></a>
-				<a href="games/games.html"><img src="kronkelIcon2.png" alt="games!" width="75" height="75"></a>
-				<a href="Story/storyframe.html"><img src="boekIcon.jpg" alt="projecten!" width="75" height="75"></a>
+				<a href="toelatingsfoto's/projecten.html"><img src="kronkelIcon.jpg" alt="projecten!" onmouseover="changeImage('bgs/toel.png')" width="75" height="75"></a>
+				<a href="games/games.html"><img src="kronkelIcon2.png" alt="games!" onmouseover="changeImage('bgs/game.png')" width="75" height="75"></a>
+				<a href="Story/storyframe.html"><img src="boekIcon.jpg" alt="projecten!" onmouseover="changeImage('bgs/story.png');" width="75" height="75"></a>
 			</div>
 		</nav>
+
+		<img id="backimage" src="channels4_banner.jpg" />
 		
 		<div id="blackleft">"POEP"</div>
 		<div id="blackright">"POEP"</div>
-		<div id="blacktop">"POEP"</div>
-		<p>
-			<div id = "head1">Welkom op mijn site!!</div>
-			<div id="A1">deze site werkt?</div>
-			<div id="A2">i guess...?</div>
-		</p>
 		
-		<div id="sidebox">
-			<div id="sideboxinside">
-			<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet tortor non nunc mollis condimentum. Nunc tincidunt faucibus libero at egestas. Ut porttitor erat quis purus efficitur bibendum. Maecenas congue nec erat in efficitur. Morbi maximus viverra massa, consequat viverra dolor accumsan sed. Pellentesque condimentum, lorem eget tincidunt interdum, eros leo porttitor diam, et varius purus mi non neque. Pellentesque vel mauris tristique, bibendum sapien sed, ullamcorper enim.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum libero nisi, semper bibendum lacus at, ultricies molestie turpis. Duis laoreet pretium diam egestas placerat. Nam lobortis, odio a commodo dictum, justo orci pulvinar mauris, quis tincidunt arcu nibh euismod eros. Pellentesque ultrices odio quis imperdiet cursus. Curabitur non nibh hendrerit, auctor ex quis, scelerisque nibh. Praesent mollis ac orci eu elementum. Nullam finibus fermentum congue. Proin sit amet convallis nibh. Nam sit amet arcu eros. Maecenas a egestas mi. Mauris pretium gravida elementum. Aenean tincidunt, metus eu porttitor porttitor, lacus augue dignissim augue, ut suscipit augue elit et sem. Praesent eu velit non ante mollis congue. Fusce consectetur ante ac porttitor finibus.
-
-Sed sodales, elit eget fermentum bibendum, ante sem bibendum odio, at sollicitudin dui lacus vitae tellus. Vivamus ut libero lobortis, congue augue sed, vehicula felis. Sed eu erat nulla. Sed lacinia, sem eget sollicitudin sodales, lorem ante convallis ligula, ut commodo est nisi non nisl. Vestibulum eget maximus arcu. Fusce dapibus dui eu nisi volutpat, vel laoreet nisi ornare. Ut id mauris vel arcu porttitor dapibus. Duis ac justo sed metus condimentum lacinia. Curabitur iaculis nibh in finibus molestie.
-
-Aenean at purus vulputate ligula auctor porttitor. Maecenas elementum eget ipsum consectetur consectetur. Ut porta sed sapien ut imperdiet. Pellentesque sodales dictum magna sed placerat. Fusce sollicitudin risus sit amet purus iaculis, et sagittis mauris fermentum. Praesent arcu urna, suscipit non justo ac, rhoncus elementum massa. Vestibulum vel diam vitae ante suscipit vehicula. Quisque cursus ex luctus justo auctor, tincidunt tempus ante mollis. </p>
-			
-			<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet tortor non nunc mollis condimentum. Nunc tincidunt faucibus libero at egestas. Ut porttitor erat quis purus efficitur bibendum. Maecenas congue nec erat in efficitur. Morbi maximus viverra massa, consequat viverra dolor accumsan sed. Pellentesque condimentum, lorem eget tincidunt interdum, eros leo porttitor diam, et varius purus mi non neque. Pellentesque vel mauris tristique, bibendum sapien sed, ullamcorper enim.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum libero nisi, semper bibendum lacus at, ultricies molestie turpis. Duis laoreet pretium diam egestas placerat. Nam lobortis, odio a commodo dictum, justo orci pulvinar mauris, quis tincidunt arcu nibh euismod eros. Pellentesque ultrices odio quis imperdiet cursus. Curabitur non nibh hendrerit, auctor ex quis, scelerisque nibh. Praesent mollis ac orci eu elementum. Nullam finibus fermentum congue. Proin sit amet convallis nibh. Nam sit amet arcu eros. Maecenas a egestas mi. Mauris pretium gravida elementum. Aenean tincidunt, metus eu porttitor porttitor, lacus augue dignissim augue, ut suscipit augue elit et sem. Praesent eu velit non ante mollis congue. Fusce consectetur ante ac porttitor finibus.
-
-Sed sodales, elit eget fermentum bibendum, ante sem bibendum odio, at sollicitudin dui lacus vitae tellus. Vivamus ut libero lobortis, congue augue sed, vehicula felis. Sed eu erat nulla. Sed lacinia, sem eget sollicitudin sodales, lorem ante convallis ligula, ut commodo est nisi non nisl. Vestibulum eget maximus arcu. Fusce dapibus dui eu nisi volutpat, vel laoreet nisi ornare. Ut id mauris vel arcu porttitor dapibus. Duis ac justo sed metus condimentum lacinia. Curabitur iaculis nibh in finibus molestie.
-
-Aenean at purus vulputate ligula auctor porttitor. Maecenas elementum eget ipsum consectetur consectetur. Ut porta sed sapien ut imperdiet. Pellentesque sodales dictum magna sed placerat. Fusce sollicitudin risus sit amet purus iaculis, et sagittis mauris fermentum. Praesent arcu urna, suscipit non justo ac, rhoncus elementum massa. Vestibulum vel diam vitae ante suscipit vehicula. Quisque cursus ex luctus justo auctor, tincidunt tempus ante mollis. </p>
-			
-			<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet tortor non nunc mollis condimentum. Nunc tincidunt faucibus libero at egestas. Ut porttitor erat quis purus efficitur bibendum. Maecenas congue nec erat in efficitur. Morbi maximus viverra massa, consequat viverra dolor accumsan sed. Pellentesque condimentum, lorem eget tincidunt interdum, eros leo porttitor diam, et varius purus mi non neque. Pellentesque vel mauris tristique, bibendum sapien sed, ullamcorper enim.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum libero nisi, semper bibendum lacus at, ultricies molestie turpis. Duis laoreet pretium diam egestas placerat. Nam lobortis, odio a commodo dictum, justo orci pulvinar mauris, quis tincidunt arcu nibh euismod eros. Pellentesque ultrices odio quis imperdiet cursus. Curabitur non nibh hendrerit, auctor ex quis, scelerisque nibh. Praesent mollis ac orci eu elementum. Nullam finibus fermentum congue. Proin sit amet convallis nibh. Nam sit amet arcu eros. Maecenas a egestas mi. Mauris pretium gravida elementum. Aenean tincidunt, metus eu porttitor porttitor, lacus augue dignissim augue, ut suscipit augue elit et sem. Praesent eu velit non ante mollis congue. Fusce consectetur ante ac porttitor finibus.
-
-Sed sodales, elit eget fermentum bibendum, ante sem bibendum odio, at sollicitudin dui lacus vitae tellus. Vivamus ut libero lobortis, congue augue sed, vehicula felis. Sed eu erat nulla. Sed lacinia, sem eget sollicitudin sodales, lorem ante convallis ligula, ut commodo est nisi non nisl. Vestibulum eget maximus arcu. Fusce dapibus dui eu nisi volutpat, vel laoreet nisi ornare. Ut id mauris vel arcu porttitor dapibus. Duis ac justo sed metus condimentum lacinia. Curabitur iaculis nibh in finibus molestie.
-
-Aenean at purus vulputate ligula auctor porttitor. Maecenas elementum eget ipsum consectetur consectetur. Ut porta sed sapien ut imperdiet. Pellentesque sodales dictum magna sed placerat. Fusce sollicitudin risus sit amet purus iaculis, et sagittis mauris fermentum. Praesent arcu urna, suscipit non justo ac, rhoncus elementum massa. Vestibulum vel diam vitae ante suscipit vehicula. Quisque cursus ex luctus justo auctor, tincidunt tempus ante mollis. </p>
-			
+		<div id="straat">
+			<div id="pointout">^ klik de plaatjes om de site te navigeren: ^</div>
+			<div id="sidebox">
+				<div id="sideboxinside">
+				<p> <h2>Update in deze box 19823:</h2>Er staat nu eindelijk iets in deze box. Ik wil deze graag ergens voor gebruiken maar ik weet niet echt wat. Wordt waarschijnlijk een lijst met projecten die ik wil doen en nooit af wil maken. Dus bij deze:
+				
+				<br>Deze site moet worden afgemaakt. Het moet een verzameling zijn van alle shit die ik door de jaren heb gemaakt zodat er 1 makkelijke plek is om overal doorheen te bladeren. Ik vind het super leuk om terug te kijken naar waar kleine KN aan dacht en jullie moeten dat nu ook vinden >:&#93;
+				
+				<br><br>Een meer out there idee is een 'curated' kaart van Amsterdam met alle plaatsen waar je goed kan plassen uitgelegd en vergeleken. Dit idee kwam toen ik gisteren in de stad moest plassen en op Google Maps "toilet" opzocht en toen werd verwezen naar die van het gemeentehuis en ik was positief verbaasd over hoe chill die wc was.
+					<br><br><br><br>
+				</p>
+				
+				</div>
 			</div>
+			<img id="sideimage" src="djens.png" />
 		</div>
+		
+		
 	</body>
 </html>
