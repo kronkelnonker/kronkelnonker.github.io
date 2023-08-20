@@ -44,10 +44,10 @@ body{
 }
 
 #naam	{
-	position: absolute;
+	position: fixed;
 	color: #121210;
 	white-space: nowrap;
-	bottom: 500px;
+	bottom: 685px;
 	font-size: 100px;
 	margin-left: -400px;
 	text-shadow: 0px 3px white;
@@ -96,7 +96,7 @@ body{
 	position: relative;
 	max-width: 40%;
 	background-color: #c6d68b;
-	overflow: scroll;
+	overflow: auto;
 	box-shadow: 5px 5px black;
 	margin-right: 8vw;
 }
@@ -107,6 +107,8 @@ body{
 	padding-right: 20px;
 	padding-bottom: 10px;
 	padding-top: 10px;
+	overflow: scroll;
+	height:600px;
 }	
 
 #sideimage	{

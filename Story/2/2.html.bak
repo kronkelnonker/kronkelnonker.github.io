@@ -13,7 +13,7 @@
 			<div id="theatre">
 			
 				<h1>
-				Act 1:
+				Act 3: ALV Beleid en Begroting
 				</h1>
 				
 				<body>
@@ -23,18 +23,15 @@
 				
 				
 				<p>
-				lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum 
-				ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum 
-				lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum 
-				lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum 
+				De introductie van het geliefde personage 'Mark Plaats'. Dit enigma van een persoon vereiste een introductie door zijn relevantie in politiek, economie en religie. Dat, en er staat een sluipschutter met zijn vizier op mij gericht zodat Mark zijn plekje krijgt maar vertel niemand dat...! 
 				</p>
 				
 				<div id="prvpage">
-					<a href="../storyframe.html"><img src="../../prv.png"></img></a>
+					<a href="../1/1.html"><img src="../../prv.png"></img></a>
 				</div>
 				
 				<div id="nxtpage">
-					<a href="../2/2.html"><img src="../../nxt.png"></img></a>
+					<a href="../3/3.html"><img src="../../nxt.png"></img></a>
 				</div>
 			</div>
 		</div>

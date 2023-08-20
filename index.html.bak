@@ -22,13 +22,15 @@
 		</div>
 
 		<div id="naam">KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER<br>
-						NONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER</div>
+						NONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER<br>
+						KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER KRONKELNONKER</div>
 
 		<nav>
 			<div id="schuinenav">
 				<a href="toelatingsfoto's/projecten.html"><img src="kronkelIcon.jpg" alt="projecten!" onmouseover="changeImage('bgs/toel.png')" width="75" height="75"></a>
 				<a href="games/games.html"><img src="kronkelIcon2.png" alt="games!" onmouseover="changeImage('bgs/game.png')" width="75" height="75"></a>
 				<a href="Story/storyframe.html"><img src="boekIcon.jpg" alt="projecten!" onmouseover="changeImage('bgs/story.png');" width="75" height="75"></a>
+				<a href="gusic/gusic.html"><img src="gus.png" alt="gusic!" onmouseover="changeImage('bgs/gusic.png');" width="75" height="75"></a>
 			</div>
 		</nav>
 
@@ -46,9 +48,13 @@
 				<br>Deze site moet worden afgemaakt. Het moet een verzameling zijn van alle shit die ik door de jaren heb gemaakt zodat er 1 makkelijke plek is om overal doorheen te bladeren. Ik vind het super leuk om terug te kijken naar waar kleine KN aan dacht en jullie moeten dat nu ook vinden >:&#93;
 				
 				<br><br>Een meer out there idee is een 'curated' kaart van Amsterdam met alle plaatsen waar je goed kan plassen uitgelegd en vergeleken. Dit idee kwam toen ik gisteren in de stad moest plassen en op Google Maps "toilet" opzocht en toen werd verwezen naar die van het gemeentehuis en ik was positief verbaasd over hoe chill die wc was.
-					<br><br><br><br>
 				</p>
 				
+				<p><br><h2>Update in deze box 20823:</h2>Het lijkt me leuk om een pagina te maken onder de Gusic pagina waar ik oude versies/composities neerleg want ze zijn soms honestly best cute. Misschien kan ik mn dingen voor HoutsnipperBound daar ook archiveren!</p>
+				
+				
+				
+				<br><br><br><br><br><br><br><br><br><br><br><br>
 				</div>
 			</div>
 			<img id="sideimage" src="djens.png" />

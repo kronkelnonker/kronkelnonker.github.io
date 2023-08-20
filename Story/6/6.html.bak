@@ -1,0 +1,40 @@
+<html>
+	<head>
+		<title>storytime!!</title>
+		<link rel="stylesheet" href="../storyframe.css">
+	</head>
+	
+	<body>
+		<div id="backtomenu">
+			<a href="../../index.html"><img src="../../backtoblack.png"></img></a>
+		</div>
+		
+		<div id="midsquare">
+			<div id="theatre">
+			
+				<h1>
+				Act 6: ALV Mini-inauguraties
+				</h1>
+				
+				<body>
+					<img id="scene" src="notule.png" alt="2">
+				</body>
+				
+				
+				<p>
+				Op dit punt in mn bestuursjaar kwam ik er achter hoeveel van mn gesprekken uiteindelijk gingen over bestuurszaken en hoe het is om bestuur te doen tot het punt dat ik me een beetje schuldig voelde. Sorry, bij deze.
+				</p>
+				
+				<div id="prvpage">
+					<a href="../5/5.html"><img src="../../prv.png"></img></a>
+				</div>
+				
+				<div id="nxtpage">
+					<a href="../7/7.html"><img src="../../nxt.png"></img></a>
+				</div>
+			</div>
+		</div>
+		
+		
+	</body>
+</html>

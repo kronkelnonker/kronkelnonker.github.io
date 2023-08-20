@@ -14,6 +14,17 @@ body {
 	padding-left: 100px;
 }
 
+#schreeuw {
+	font-size: 30px;
+	height: 90px;
+	width: 90px;
+	position: fixed;
+	top: 300px;
+	left: 30px;
+	font-weight: bold;
+	
+}
+
 #backtomenu {
 	top: -1vh;
 	left: -1vh;
@@ -98,6 +109,7 @@ h2 {
 	height: 300px;
 	margin-top: -310px;
 	margin-left: 20px;
+	margin-bottom: -5vh;
 }
 
 #guramid {

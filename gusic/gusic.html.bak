@@ -5,6 +5,8 @@
 	</head>
 	
 	<body>
+		<div id="schreeuw">TURN DOWN<br>
+		YOUR VOLUME,<br>THIS SHIT MIGHT BE<br>VERY LOUD!!!</div>
 	
 		<div class="row">
 			<div>
@@ -16,8 +18,7 @@
 				most part my response to Toby<br> 
 				Fox's <a href="https://www.youtube.com/watch?v=-S-7Yc0n3uc">"Cats"</a><br><br>
 				</div>	
-
-					<audio controls>
+					<audio controls class="myAudio">
 					<source src="together/Catnip Bloodlust.mp3" type="audio/mp3">
 					uhh je browser doet het niet.
 					</audio>				
@@ -26,11 +27,44 @@
 			<div>
 				<img id="gu2" src="guic.png"></img>
 				<div class ="music">
+				<h2>Cardi B theme</h2>
+				A theme for the villain of<br>
+				Crack quest. This is not <br> 
+				related to Cardi B.<br> 
 				</div>	
-				<audio controls>
-					<source src="together/Catnip Bloodlust.mp3" type="audio/mp3">
+				<audio controls class="myAudio">
+					<source src="together/Carditis B.mp3" type="audio/mp3">
 					uhh je browser doet het niet.
 				</audio>				
+			</div>
+			
+			<div>
+				<img id="gu2" src="gus.png"></img>
+				<div class ="music">
+				<h2>Staff of the King</h2>
+				An up-in-your-face<br>
+				theme for someone of<br> 
+				royalty<br> 
+				</div>	
+				<audio controls class="myAudio">
+					<source src="together/royal2.wav" type="audio/mp3">
+					uhh je browser doet het niet.
+				</audio>				
+			</div>
+			
+			<div>
+				<img id="gue2" src="gusic.png"></img>
+				<div class ="music">	
+				<h2>Zeep Eeter</h2>
+				Ironically choosing a shitposty<br>
+				track title made this tune<br> 
+				show up in many people's<br> 
+				youtube recommendations.<br> 
+				</div>				
+				<audio controls class="myAudio">
+					<source src="together/Purge This World Of All Pretentiousness.wav" type="audio/mp3">
+					uhh je browser doet het niet.
+				</audio>
 			</div>
 		</div>
 		
@@ -41,20 +75,27 @@
 			
 			<div>
 				<img id="gue1" src="gus.png"></img>
-				<div class ="music">
-				</div>	
-				<audio controls>
-					<source src="together/Catnip Bloodlust.mp3" type="audio/mp3">
+				<div class ="music">	
+				<h2>Fearless Frequency</h2>
+				I composed this in Garageband<br>
+				on my middle school IPad<br> 
+				</div>
+				<audio controls class="myAudio">
+					<source src="together/Fearless Frequency.mp3" type="audio/mp3">
 					uhh je browser doet het niet.
 				</audio>				
 			</div>
 			
 			<div>
 				<img id="gue2" src="gusic.png"></img>
-				<div class ="music">
-				</div>	 
-				<audio controls>
-					<source src="together/Catnip Bloodlust.mp3" type="audio/mp3">
+				<div class ="music">	
+				<h2>Purge this World</h2>
+				Epic battle theme for a <br>
+				fight between epic <br> 
+				philosophers <br> 
+				</div>				
+				<audio controls class="myAudio">
+					<source src="together/Purge This World Of All Pretentiousness.wav" type="audio/mp3">
 					uhh je browser doet het niet.
 				</audio>
 			</div>
@@ -64,15 +105,15 @@
 			<div>
 				<img id="gu1" src="gug.png"></img>
 				<div class ="music">
-					<h2>Catnip Bloodlust:</h2>
-					One of the first compositions<br>
-					I've ever made. This was for<br> 
-					most part my response to Toby<br> 
-					Fox's <a href="https://www.youtube.com/watch?v=-S-7Yc0n3uc">"Cats"</a><br><br>
+					<h2>What really matters</h2>
+					The Rhythm Heaven soundfont<br>
+					really has all of these cool<br>
+					instruments. I really like<br>
+					the slowdown and static noises<br>
+					in this one
 				</div>	
-
-				<audio controls>
-					<source src="together/Catnip Bloodlust.mp3" type="audio/mp3">
+				<audio controls class="myAudio">
+					<source src="together/berk3.wav" type="audio/mp3">
 					uhh je browser doet het niet.
 				</audio>				
 			</div>
@@ -87,8 +128,22 @@
 					has varying themes even for<br>
 					regular enemy encounters.<br><br>
 				</div>	
-				<audio controls>
+				<audio controls class="myAudio">
 					<source src="together/Sunday.wav" type="audio/wav">
+					uhh je browser doet het niet.
+				</audio>				
+			</div>
+			
+			<div>
+				<img id="gu2" src="gus.png"></img>
+				<div class ="music">
+				<h2>The Show Must End</h2>
+				Intro theme for a webcomic<br>
+				i will surely finish one day<br> 
+				&#40;clueless&#41;<br> 
+				</div>	
+				<audio controls class="myAudio">
+					<source src="together/The Show Must End.wav" type="audio/mp3">
 					uhh je browser doet het niet.
 				</audio>				
 			</div>
@@ -99,9 +154,15 @@
 			<div>
 				<img id="gue1" src="gus.png"></img>
 				<div class ="music">
-				</div>	
-				<audio controls>
-					<source src="together/Catnip Bloodlust.mp3" type="audio/mp3">
+					<h2>Consider:</h2>
+					Uses a melody from "This World<br>
+					Over" from XTC. Its a bit<br>
+					depressing sounding because I<br>
+					was doing a minor in<br>
+					Journalistics at that time
+				</div>		
+				<audio controls class="myAudio">
+					<source src="together/Consider.mp3" type="audio/mp3">
 					uhh je browser doet het niet.
 				</audio>				
 			</div>
@@ -109,11 +170,33 @@
 			<div>
 				<img id="gue2" src="gusic.png"></img>
 				<div class ="music">
+					<h2>Against All Hope:</h2>
+					LEITMOTIF SPAM!!!<br>
+					An old composition I tried<br>
+					to give new instruments.<br>
+					Still not too happy with it<br>
+					because I think mother3.sf2<br>
+					is overused.
 				</div>	 
-				<audio controls>
-					<source src="together/Catnip Bloodlust.mp3" type="audio/mp3">
+				<audio controls class="myAudio">
+					<source src="together/extendeblindradia.wav" type="audio/mp3">
 					uhh je browser doet het niet.
 				</audio>
+			</div>
+			
+			<div>
+				<img id="gu1" src="gug.png"></img>
+				<div class ="music">
+				<h2>Vents</h2>
+				A tune somewhat blatantly<br>
+				inspired by PilotRedSun's <br> 
+				"Grinch's Ultimatum". Still<br> 
+				love it though.<br> 
+				</div>	
+					<audio controls class="myAudio">
+					<source src="together/vents.wav" type="audio/mp3">
+					uhh je browser doet het niet.
+					</audio>				
 			</div>
 			
 			
@@ -125,4 +208,15 @@
 			<a href="../index.html"><img src="back.png"></img></a>
 		</div>
 	</body>
+	
+	<script>
+	function setGlobalAudio(vol)
+	{
+		const audio = document.getElementsByClassName("myAudio");
+		for (let i = 0; i < audio.length; i++)
+		audio[i].volume = vol; 
+	}
+	setGlobalAudio(0.1);
+	</script>
+	
 </html>
