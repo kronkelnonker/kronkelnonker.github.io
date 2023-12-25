@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<title>DYSTOPIET</title>
+		<link rel="stylesheet" href="data.css">
+	</head>
+	
+	<body>
+		<div id="backtomenu">
+			<a href="../index.html"><img src="../backtoblack.png"></img></a>
+		</div>
+		
+		<div id="midsquare">
+			<div id="theatre">
+			
+				<h1>
+								[DYSTOPIET]
+					<img id="scene" src="dystopiet.png" alt="1">
+				</h1>
+				
+				<body>
+					<h1>
+					<a href="/story/0001.html">START VERHAAL</img></a>
+					</h1>
+				</body>
+				
+				
+				<!-- <img id="prvpage" src="../kronkelIcon.jpg" width="100" height="100"></img> -->
+				
+				<!-- <div id="prvpage"> -->
+					<!-- <a href="../index.html"><img src="prv.png"></img></a> -->
+				<!-- </div> -->
+				
+				<!-- <div id="nxtpage">
+					<a href="1/1.html"><img src="nxt.png"></img></a>
+				</div> -->
+			</div>
+		</div>
+		
+		
+	</body>
+</html>

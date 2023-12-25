@@ -1,34 +1,27 @@
 body {
 	background-image: url("dansenbackgroen.png");
 	height: 100%;
-	overflow: hidden;
+	
 }
 
 .row {
-	margin-top: -45vh;
-	transform: rotate(-45deg);
 	border: 20px solid #b7c4b3;
-}
-.link {
-    transition: all 0.25s ease-out;
-}
-
-.link:hover {
-    padding: 0 100px;
 }
 
 #backtomenu {
-	top: -2vh;
-	left: -2vh;
+	top: -1vh;
+	left: -1vh;
 	transform-origin: center center;
 	position:fixed;
 	
 }
 
-#crack {
-	margin-left: -100;
+#game {
+	width: 96vw
 }
 
-#wurg {
-	margin-left: 300;
+#scroll {
+	text-align: center;
+	color: white; 
+	font-size: 36px;
 }

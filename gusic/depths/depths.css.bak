@@ -1,0 +1,50 @@
+@font-face {
+	font-family: florisfont;
+	src: url(Floris-Regular.ttf);
+}
+
+body {
+	background-image: url("moir.png");
+	background-size: cover;
+	background-position: center;
+	overflow: Scrollbar;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	padding-left: 100px;
+}
+
+#backtomenu {
+	top: -1vh;
+	left: -1vh;
+	transform-origin: center center;
+	position:fixed;
+	
+}
+
+.row {
+	margin-top: 10%;
+	padding-left: 15%;
+	padding-right: 20%;
+}
+
+
+#audioalign {
+	margin-top: auto;
+}
+
+h2 {
+	color: white;
+}
+
+audio {
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.music { 
+	font-family: "Courier New";
+	margin-left: 20px;
+	margin-bottom: -5vh;
+}
+
