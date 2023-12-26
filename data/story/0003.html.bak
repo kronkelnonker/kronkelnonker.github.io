@@ -29,7 +29,7 @@
 				</div>
 			
 				<h1 style="font-size: 14;">
-					Speel hier de muziek op JV's radio! --> &nbsp&nbsp&nbsp
+					Zet JV's radio hier aan! --> &nbsp&nbsp&nbsp
 					<audio controls class="myAudio">
 						<source src="../images/0003.mp3" type="audio/mp3">
 						uhh je browser doet het niet.
