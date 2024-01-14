@@ -1,0 +1,77 @@
+<html>
+	<head>
+		<title>storytime!!</title>
+		<link rel="stylesheet" href="../css/startlayout.css">
+	</head>
+	
+	<body>
+		<div id="backtomenu">
+			<a href="../../index.html"><img src="../../backtoblack.png"></img></a>
+		</div>
+		
+		<div id="midsquare">
+			<div id="theatre">
+				<div class="headercontainer">
+					<div id="prvpage">
+						<a href="../story/0008.html"><img src="../prv.png"></img></a>
+					</div>
+					
+					<div id="titel">[INTRO]</div>
+					
+					<div id="nxtpage">
+						<a href="../story/00010.html"><img src="../nxt.png"></img></a>
+					</div>
+				</div>
+			
+				<h1 style="font-size: 14;">
+					Zet JV's radio hier aan! --> &nbsp&nbsp&nbsp
+					<audio controls class="myAudio">
+						<source src="../images/0003.mp3" type="audio/mp3">
+						uhh je browser doet het niet.
+						</audio>
+					<img id="scene" src="../images/0009.png" alt="img0003">
+				</h1>
+				
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#1581b0; color: white; text-align: left; font-size: 24px;">
+				SVIP: Hey Jurgen,<br>
+				SVIP: Is er iets aan de hand?<br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left; font-size: 24px;">
+				JV: Oh nee hoor, sorry.<br>
+				JV: Het is al geregeld. <br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#1581b0; color: white; text-align: left; font-size: 24px;">
+				SVIP: Ah fantastisch, dan ga ik wel weer terug naar mijn kamer.
+				</div>
+				<br>
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left; font-size: 24px;">
+				ZIPI: <br>
+				</div>
+				
+				<div style="padding-top:10px;" class="headercontainer">
+					<div id="prvpage">
+						<a href="../story/0008.html"><img src="../prv.png"></img></a>
+					</div>
+					
+					<div id="copyright">alle copyrights naar de sinterklaascie</div>
+					
+					<div id="nxtpage">
+						<a href="../story/00010.html"><img src="../nxt.png"></img></a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</body>
+	
+	<script>
+	function setGlobalAudio(vol)
+	{
+		const audio = document.getElementsByClassName("myAudio");
+		for (let i = 0; i < audio.length; i++)
+		audio[i].volume = vol; 
+	}
+	setGlobalAudio(0.1);
+	</script>
+	
+</html>
