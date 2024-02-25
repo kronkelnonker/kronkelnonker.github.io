@@ -12,12 +12,8 @@
 		<div id="log">
 			<h3>Logboek:</h3>
 			&#x28 ben je up to date?! &#x29<br>
-			<a href="story/00017.html">14-2-2024 - "Eerder die avond:"</img></a><br>
-			<a href="story/00016.html">4-2-2024 - "Eerder die avond:"</img></a>
-			<a href="story/00011.html">17-1-2024 - "Intro"</img></a>
-			<a href="story/0007.html">2-1-2024 - "Intro"</img></a>
-			<a href="story/0002.html">26-12-2023 - "Intro"</img></a>
-			<a href="story/0001.html">25-12-2023 - "Intro"</img></a>
+			<a href="chapters/0003.html"><i>25-2-2024</i> - <br>"H1: Een Eerder Avondje"</img></a><br>
+			<a href="chapters/0001.html"><i>17-1-2024</i> - "Intro"</img></a><br>
 		</div>
 		
 		<div id="midsquare">
@@ -29,9 +25,21 @@
 				</h1>
 				
 				<body>
+				
+					<div style="padding-left: 4px; padding-right: 4px; text-align: center; font-size: 24px;">
+					<i>"Wat zou je doen wanneer de grond onder je spontaan verdwijnt? Wanneer je je nauwelijks vast kan houden aan een muur- of platform en alles en iedereen om je heen de diepte in ziet vallen? Wanneer je gedwongen wordt om jezelf te redden in de overblijfselen van een beschaving? Wanneer je dieet bestaat uit het verborgen snoep uit nachtkastjes van kinderen die nooit meer op zullen groeien? Wanneer de warme gloed van de zon voor eeuwig plaats maakt voor het kille loeren van de maan?
+					<br><br>
+					Wanneer Sinterklaas verdwenen is?
+					<br>
+					en zijn Pieten er alleen voor staan?"</i>
+					<br><br>
+					- Gewaarmerkt acteur en zanger Gerard Joling, 1960-2024
+					</div>
+				
+				
 					<h1>
-					<a href="story/0001.html">START VERHAAL</img></a>
-					</h1>
+					<a href="chapters/0001.html">START VERHAAL</img></a>
+					</h1><br><br><br>
 				</body>
 				
 				

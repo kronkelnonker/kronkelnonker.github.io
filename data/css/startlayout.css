@@ -55,6 +55,12 @@ p{
 #prvpage {
 }
 
+#space {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
 #titel {
 	padding-top: 20px;
 	padding-left: 40px;

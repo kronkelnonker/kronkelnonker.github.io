@@ -46,13 +46,17 @@ p{
 }
 
 .headercontainer {
-	padding-top:10px;
+	
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
 }
 
 #prvpage {
+}
+
+#space {
+	display: flex;
 }
 
 #titel {
