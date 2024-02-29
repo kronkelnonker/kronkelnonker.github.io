@@ -9,7 +9,7 @@
 	<script> 
 		function changeImage(which)
 		{
-			document.getElementById('backimage').src = which;
+			document.body.style.backgroundImage = "url("+which+")";
 			return false;
 		}
 	</script>
@@ -27,25 +27,25 @@
 
 		<nav>
 			<div id="schuinenav">
-				<a href="gusic/gusic.html"><img src="gus.png" alt="gusic!" onmouseover="changeImage('bgs/gusic.png');" width="75" height="75"></a>
-				<a href="games/games.html"><img src="kronkelIcon2.png" alt="games!" onmouseover="changeImage('bgs/game.png')" width="75" height="75"></a>
-				<a href="Story/storyframe.html"><img src="boekIcon.jpg" alt="projecten!" onmouseover="changeImage('bgs/story.png');" width="75" height="75"></a>
+				<div id="pointout">klik op de<br>plaatjes om<br>de site te<br>navigeren: --></div>
+				<a href="gusic/gusic.html" id="taskbar"><img src="gus.png" alt="gusic!" onmouseover="changeImage('bgs/gusic.png');" width="75" height="75"></a>
+				<a href="games/games.html" id="taskbar"><img src="kronkelIcon2.png" alt="games!" onmouseover="changeImage('bgs/game.png')" width="75" height="75"></a>
+				<a href="Story/storyframe.html" id="taskbar"><img src="boekIcon.jpg" alt="projecten!" onmouseover="changeImage('bgs/story.png');" width="75" height="75"></a>
 				<!-- <a href="toelatingsfoto's/toelating.html"><img src="kronkelIcon.jpg" alt="projecten!" onmouseover="changeImage('bgs/toel.png')" width="75" height="75"></a> -->
-				<a href="data/data.html"><img src="pepernotenicon.jpg" alt="pepernoten!" onmouseover="changeImage('bgs/pepernotenback.jpg')" width="75" height="75"></a>
-				<a href="https://www.youtube.com/@kronkelnonker"><img src="kronkelIcon.jpg" alt="youtube!" onmouseover="changeImage('bgs/youtubeback.png')" width="75" height="75"></a>
+				<a href="data/data.html" id="taskbar"><img src="pepernotenicon.jpg" alt="pepernoten!" onmouseover="changeImage('bgs/pepernotenback.jpg')" width="75" height="75"></a>
+				<a href="https://www.youtube.com/@kronkelnonker" id="taskbar"><img src="kronkelIcon.jpg" alt="youtube!" onmouseover="changeImage('bgs/youtubeback.png')" width="75" height="75"></a>
 			</div>
 		</nav>
 
-		<img id="backimage" src="channels4_banner.jpg" />
+		<img id="backimage" />
 		
-		<div id="blackleft">"POEP"</div>
-		<div id="blackright">"POEP"</div>
+		<div id="blackleft">""</div>
+		<div id="blackright">""</div>
 		
 		<div id="straat">
-			<div id="pointout">^ klik de plaatjes om de site te navigeren: ^</div>
 			<div id="sidebox">
 				<div id="sideboxinside">
-				<p><h2>Update in deze box 250224:</h2>Chapter 1 van Dystopiet is nu af. Ik heb de pagina's opnieuw ingericht met meerdere plaatjes op 1 pagina zodat je minder bezig bent met klikken en meer met lezen (daarnaast kan je JV's radio gewoon aanlaten op de hele pagina)!<br><br>Voordat ik begin aan chapter 2 wil ik een pagina maken waarop ik een wijd scala aan pieten beschrijf: <i>PietenPedia!!</i></p>
+				<p><h2>Update in deze box 250224:</h2>Chapter 1 van Dystopiet is nu af. Ik heb de pagina's opnieuw ingericht met meerdere plaatjes op 1 pagina zodat je minder bezig bent met klikken en meer met lezen (daarnaast kan je JV's radio gewoon aanlaten op de hele pagina)!<br><br>Voordat ik begin aan chapter 2 wil ik een pagina maken waarop ik een wijd scala aan pieten beschrijf: <b><i>PietenPedia!!</i></b></p>
 				
 				<p><h2>Update in deze box 140224:</h2>FIJNE VALENTIJNSDAG?! Ik blijf maar dingen posten op feestdagen. Vandaag was mijn eerste GROTE Dystopiet update. Ik wil proberen de updates voortaan ongeveer zo groot houden omdat het imo voor een betere flow in het verhaal zorgt.</p>
 				
@@ -67,7 +67,7 @@
 				<br><br><br><br><br><br><br><br><br><br><br><br>
 				</div>
 			</div>
-			<img id="sideimage" src="djens.png" />
+			<img id="sideimage" src="important.png" />
 		</div>
 		
 		

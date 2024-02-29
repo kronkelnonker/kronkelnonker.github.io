@@ -1,16 +1,8 @@
 body{
 	margin-top: 150px;
 	margin-left: 60px;
-	background-image: url("channels4_banner.png");
-}
-
-#schuinenav	{
-	padding-top: 5px;
-	padding-left: 300px;
-	margin-left: -200px;
-	margin-right: -200px;
-	background-color: #f0e9a3;
-	box-shadow: 4px 4px black;
+	background-image: url("channels4_banner.jpg");
+	background-repeat: repeat;
 }
 
 .tech-slideshow {
@@ -79,26 +71,39 @@ body{
 	display: flex;
 }
 
+#schuinenav	{
+	display: flex;
+	padding-top: 5px;
+	padding-left: 35%;
+	margin-left: -200px;
+	margin-right: -200px;
+	background-color: #121210 /*#f0e9a3*/;
+	box-shadow: 4px 4px black;
+}
+
 #pointout {
 	position: relative;
-	margin-left: 5.5vw;
 	padding-left: 5px;
-	margin-right: 2vw;
 	padding-right: 5px;
-	margin-top: 5px;
+	margin-right: 5px;
 	background-image: url(channels4_banner.png);
-	max-height: 20px;
-
+	max-height: 75px;
+	max-width: 75px;
 	-webkit-text-stroke: 1px black;
 }
 
+#taskbar {
+	margin-right:5px;
+}
+
 #sidebox	{
+	margin-left: 20%;
 	position: relative;
-	max-width: 40%;
+	max-width: 50%;
 	background-color: #c6d68b;
 	overflow: auto;
 	box-shadow: 5px 5px black;
-	margin-right: 8vw;
+	margin-right: 7vw;
 }
 
 #sideboxinside {
@@ -108,7 +113,7 @@ body{
 	padding-bottom: 10px;
 	padding-top: 10px;
 	overflow: scroll;
-	height:800px;
+	height:600px;
 }	
 
 #sideimage	{
@@ -116,12 +121,41 @@ body{
 	width: 15vw;
 	height: 40vh;
 	margin-top: 5vh;
-	box-shadow: 5px 5px black;
+	box-shadow: 10px 10px black;
 }
-	
-	
 	
 body{
 	transform: rotate(10deg);
 	overflow: hidden;
+}
+
+@media only screen and (max-width: 768px) {
+	/* for mobile*/
+	body	{
+		transform: rotate(0deg);
+	}
+	
+	#sideimage {
+		display: none; 
+	}
+	
+	#sidebox	{
+		max-width: 80%;
+		margin: auto;
+	}
+	
+	#nav	{
+		margin: auto;
+	}
+	
+	#blackright	{
+		left: 85vw;
+	}
+	
+	#naam	{
+		bottom: 710px;
+		font-size: 40px;
+		margin-left: -12%
+	}
+	
 }

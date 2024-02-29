@@ -57,6 +57,8 @@ p{
 
 #space {
 	display: flex;
+	flex-direction: row;
+	justify-content: center;
 }
 
 #titel {
@@ -77,4 +79,17 @@ p{
 #nxtpage {
 }
 
+@media only screen and (max-width: 768px) {
+	/* for mobile*/
+	
+	#backtomenu{
+		transform: scale(0.5);
+		top: 140px;
+		left: -30px;
+		padding-bottom: 5px;
+		padding-left: 5px;
+		padding-right: 5px;
+		font-weight: bold;
+	}
+}
 
