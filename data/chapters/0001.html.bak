@@ -2,11 +2,12 @@
 	<head>
 		<title>storytime!!</title>
 		<link rel="stylesheet" href="../css/startlayout.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 	</head>
 	
 	<body>
 		<div id="backtomenu">
-			<a href="../data.html"><img src="../../backtoblack.png"></img></a>
+			<a href="../data.html"><img src="../../backtostart.png"></img></a>
 		</div>
 		
 		<div id="midsquare">

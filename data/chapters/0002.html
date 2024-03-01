@@ -27,9 +27,11 @@
 				<h1 style="font-size: 14;">
 					Zet JV's radio hier aan! --> &nbsp&nbsp&nbsp
 					<audio controls class="myAudio">
-						<source src="../images/0003.mp3" type="audio/mp3">
+						<source src="../../gusic\together\dystopiet\brood.mp3" type="audio/mp3">
 						uhh je browser doet het niet.
 						</audio>
+				</h1>		
+				<h1 style="font-size: 14;">	
 					<img id="scene" src="../images/0003.png" alt="img0003">
 				</h1>
 				
@@ -204,4 +206,16 @@
 		</div>
 
 	</body>
+	
+	<script>
+	function setGlobalAudio(vol)
+	{
+		const audio = document.getElementsByClassName("myAudio");
+		for (let i = 0; i < audio.length; i++)
+		audio[i].volume = vol; 
+	}
+	setGlobalAudio(0.2);
+	</script>
+	
+	
 </html>
