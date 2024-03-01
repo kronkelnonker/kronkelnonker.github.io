@@ -129,10 +129,11 @@ body{
 	overflow: hidden;
 }
 
-@media only screen and (max-width: 895px) {
+@media only screen and (max-width: 400px) {
 	/* for mobile*/
 	body	{
 		transform: rotate(0deg);
+		margin-top: 130px;
 	}
 	
 	#sideimage {
@@ -141,21 +142,33 @@ body{
 	
 	#sidebox	{
 		max-width: 80%;
-		margin: auto;
+		margin-left: 0%;
+		
 	}
 	
 	#nav	{
 		margin: auto;
 	}
 	
-	#blackright	{
-		left: 85vw;
+	#schuinenav	{
+		transform: scale(0.75);
+		margin-top: -10px;
+		margin-bottom: -10px;
 	}
 	
+	#blackleft	{
+		left: -30vw;
+	}
+	
+	#blackright	{
+		left: 80vw;
+	}
+	
+	
 	#naam	{
-		bottom: 710px;
-		font-size: 40px;
-		margin-left: -13%
+		bottom: 685px;
+		font-size: 36px;
+		margin-left: -25%;
 	}
 	
 }

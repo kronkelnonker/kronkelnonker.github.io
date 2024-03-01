@@ -52,3 +52,15 @@ p{
 	display: inline-block;
 	float: right;
 }
+
+@media only screen and (max-width: 800px) {
+		
+	#prvpage {
+		
+		transform: scale(0.30);
+	}
+
+	#nxtpage {
+		transform: scale(0.30);
+	}
+{

@@ -6,7 +6,7 @@
 	
 	<body>
 		<div id="backtomenu">
-			<a href="../../index.html"><img src="../../backtoblack.png"></img></a>
+			<a href="../data.html"><img src="../../backtoblack.png"></img></a>
 		</div>
 		
 		<div id="midsquare">
@@ -32,7 +32,7 @@
 					<img id="scene" src="../images/0003.png" alt="img0003">
 				</h1>
 				
-				<div style="margin-top: 20px; padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left; font-size: 24px;">
+				<div style="margin-top: 20px; padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
 				JV: Man wat houd ik van regels,<br>
 				JV: en van wetten enzo.
 				</div>
@@ -43,7 +43,7 @@
 					<img id="scene" src="../images/0004.png" alt="img0004">
 				</h1>
 				
-				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left; font-size: 24px;">
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
 				ZIPI: ik wil een andere kamer!<br>
 				</div>
 				<br><br>
@@ -53,30 +53,30 @@
 					<img id="scene" src="../images/0005.png" alt="img0005">
 				</h1>
 				
-				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left; font-size: 24px;">
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
 				ZIPI: serieus hoe haal je het in je hoofd om iemand op dezelfde ruimte te zetten als &nbsp """onthoofd piet"""??<br>
 				</div>
 				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left; font-size: 24px;">
 				JV: niet zo snel oordelen joh<br>
 				JV: onthoofdpiet is vast een hartstikke aardige gast<br>
 				</div>
-				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left; font-size: 24px;">
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
 				ZIPI: die "hartstikke aardige gast" van je heeft me onder lopen kwijlen terwijl ik probeerde te slapen<br>
 				ZIPI: boven me hangen en alles &nbsp hele kaak om me heen &nbsp echt niet normaal!<br>
 				ZIPI: serieus je ziet het niet meteen maar die piet heeft een mond waar vrijwel een volledig paard in past<br>
 				ZIPI: 1 seconde later wakker geworden en ik zou zijn beland onder die guillotine-voortanden van hem<br>
 				ZIPI: ik ga niet terug die kamer in!<br>
 				</div>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
 				JV: oke<br>
 				JV: dikke prima<br>
 				JV: ik vind wel een andere gast die jou kan vervangen, geen probleem<br>
 				</div>
-				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left; font-size: 24px;">
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
 				ZIPI: ga nou niet zo doen &nbsp ik heb een goede som pepernoten betaald voor dit verblijf<br>
 				ZIPI: is er echt niet een andere kamer vrij ofzo?<br>
 				</div>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
 				JV: in deze economie?<br>
 				JV: wat denk je zelf?<br>
 				</div>
@@ -87,7 +87,7 @@
 					<img id="scene" src="../images/0006.png" alt="img0006">
 				</h1>
 				
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
 				JV: ziehier:<br>
 				JV: duidelijk?<br>
 				</div>
@@ -98,7 +98,7 @@
 					<img id="scene" src="../images/0007.gif" alt="img0007">
 				</h1>
 				
-				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left; font-size: 24px;">
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
 				ZIPI: mijn god &nbsp je maakt een grapje &nbsp die pieten bestaan toch helemaal niet<br>
 				ZIPI: na het incident ben ik de meest bizarre pieten tegengekomen maar dit overtreft alles<br>
 				ZIPI: sowieso &nbsp je hebt Spencer-van-ICarly piet verzonnen<br>
@@ -110,7 +110,7 @@
 				ZIPI: wie begint er dan ook een duur hotel tijdens de apocalyps jezus<br>
 				ZIPI: ijdeltuit<br>
 				</div>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
 				JV: Man, rustig;<br>
 				</div>
 				<br><br>
@@ -119,11 +119,11 @@
 					<img id="scene" src="../images/0008.png" alt="img0008">
 				</h1>
 				
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
 				JV: Yo;<br>
 				JV: Spencer?<br>
 				</div>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#1581b0; color: white; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#1581b0; color: white; text-align: left;">
 				??: Hm-<br>
 				??: Wat is er?<br>
 				</div>
@@ -132,19 +132,19 @@
 					<img id="scene" src="../images/0009.png" alt="img0009">
 				</h1>
 				
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#1581b0; color: white; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#1581b0; color: white; text-align: left;">
 				SVIP: Hey Jurgen,<br>
 				SVIP: Is er iets aan de hand?<br>
 				</div>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
 				JV: Oh nee hoor, sorry.<br>
 				JV: Het is al geregeld. <br>
 				</div>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#1581b0; color: white; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#1581b0; color: white; text-align: left;">
 				SVIP: Ah fantastisch, dan ga ik wel weer terug naar mijn kamer.
 				</div>
 				<br>
-				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left; font-size: 24px;">
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
 				ZIPI: <br>
 				</div>
 				<br><br>
@@ -154,7 +154,7 @@
 					<img id="scene" src="../images/0010.png" alt="img00010">
 				</h1>
 				
-				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left; font-size: 24px;">
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
 				ZIPI: ah.<br>
 				</div>
 				<br>
@@ -167,7 +167,7 @@
 					<img id="scene" src="../images/0012.png" alt="img0012">
 				</h1>
 
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
 				JV: Aansteller.
 				</div><br>
 				
@@ -183,7 +183,7 @@
 					<img id="scene" src="../images/0015.png" alt="img0003">
 				</h1>
 				
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;">
 				AIPI: heb je deze staf ergens gezien?<br>
 				AIPI: we zijn op zoek naar iemand met een staf als deze.<br>
 				</div><br><br>

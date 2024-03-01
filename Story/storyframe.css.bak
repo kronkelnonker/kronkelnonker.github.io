@@ -3,7 +3,6 @@ body{
 	background-image: url("../channels4_banner.jpg");
 	height: 100%;
 	margin-top: -100px;
-	font: italic "Fira Sans", serif;
 }
 
 #backtomenu {
@@ -53,3 +52,14 @@ p{
 	display: inline-block;
 	float: right;
 }
+
+@media only screen and (max-width: 800px) {
+		
+	#prvpage {
+		transform: scale(0.30);
+	}
+
+	#nxtpage {
+		transform: scale(0.30);
+	}
+{
