@@ -86,7 +86,7 @@ p{
 	
 	#backtomenu{
 		transform: scale(0.3);
-		top: 0px;
+		top: -20px;
 		left: -50px;
 		padding-bottom: 5px;
 		padding-left: 5px;
