@@ -129,7 +129,7 @@ body{
 	overflow: hidden;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 250px) {
 	/* for mobile*/
 	body	{
 		transform: rotate(0deg);
