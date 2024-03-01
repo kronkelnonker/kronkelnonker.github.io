@@ -2,6 +2,8 @@
 	<head>
 		<title>Chapter 1: Een Eerder Avondje</title>
 		<link rel="stylesheet" href="../css/startlayout.css">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 	</head>
 	
 	<body>
@@ -27,24 +29,24 @@
 					<img id="scene" src="../images/0042.png" alt="img0042">
 				</h1>
 				
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
 				AIPI: AAAAAAAAAHHG <br>
 				AIPI: AAAAAA SHIT!!<br>
 				AIPI: FUC-<br>
 				AIPI: AAH!<br>
 				</div>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
 				IRPI: ANTIRITEPIET!!<br>
 				</div>
 				
 				<h1 style="font-size: 14; ">
 					<img id="scene" src="../images/0043.png" alt="img0043">
 				</h1>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
 				IRPI: Oh nee, oh nee, oh nee, oh nee<br>
 				IRPI: ANTIRI-<br>
 				</div>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
 				AIPI: BITCH KOM TER-<br>
 				AIPI: AAAHHHH<br>
 				AIPI: KOM TERUG MET MIJN VOET<br>
@@ -52,11 +54,11 @@
 				<h1 style="font-size: 14; ">
 					<img id="scene" src="../images/0044.png" alt="img0044">
 				</h1>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
 				IRPI: Ze gaat ervandoor!!<br>
 				IRPI: Ik ben zo teru-<br>
 				</div>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
 				AIPI: NEE<br>
 				AIPI: help m-<br>
 				AIPI: HHHHH<br>
@@ -68,11 +70,11 @@
 					<img id="scene" src="../images/0045.png" alt="img0045">
 				</h1>
 				
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
 				IRPI: Ik weet misschien wat<br>
 				IRPI: De... Ehh ja jeweetwel<br>
 				</div>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
 				AIPI: IKWEETNIET!??!<br>
 				</div>
 				
@@ -80,7 +82,7 @@
 					<img id="scene" src="../images/0046.png" alt="img0046">
 				</h1>
 				
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
 				IRPI: ...<br>
 				IRPI: Blegh.<br>
 				IRPI: Aha hebbes!<br>
@@ -90,11 +92,11 @@
 					<img id="scene" src="../images/0047.png" alt="img0047">
 				</h1>
 				
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
 				IRPI: Oke het is een raar idee maar het is maar even zo</br>
 				IRPI: Dit is het meest voet-achtige dat we op dit moment in de buurt hebben.<br>
 				</div>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
 				AIPI: DE PLASTIC NEP-HAND!??!<br>
 				</div>
 				
@@ -106,7 +108,7 @@
 					<img id="scene" src="../images/0049.png" alt="img0049">
 				</h1>
 				
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
 				AIPI: godverdomme<br>
 				AIPI: ...<br>
 				AIPI: dit is eng grappig voor hoeveel pijn dit doet<br>
@@ -117,7 +119,7 @@
 				<h1 style="font-size: 14; ">
 					<img id="scene" src="../images/0050.png" alt="img0050">
 				</h1>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
 				IRPI: ...<br>
 				IRPI: Je hoorde die piet van net ook toch?<br>
 				IRPI: "Geef me de Staf"...?<br>
@@ -128,13 +130,13 @@
 				<h1 style="font-size: 14; ">
 					<img id="scene" src="../images/0051.png" alt="img0051">
 				</h1>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
 				IRPI: Trek je schoenen aan<br>
 				IRPI: ...<br>
 				IRPI: ...voor zover dat nog kan met...<br>
 				IRPI: Jeweetwel<br>
 				</div>
-				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left; font-size: 24px;">
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
 				AIPI:<br>
 				</div><br><br>
 				
