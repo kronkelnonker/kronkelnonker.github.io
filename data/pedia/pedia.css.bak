@@ -1,6 +1,6 @@
 
 body{
-	background-image: url("pepernotenback.jpg");
+	background-image: url("../pepernotenback.jpg");
 	height: 100%;
 	margin-top: -100px;
 }
@@ -26,25 +26,12 @@ body{
 	margin: auto;
 }
 
-#pedia {
-	text-align: center;
-	background-color: #d1ce9b;
-	width: 180px;
-	padding-bottom: 10px;
-	margin: auto;
-}
-
-#scroll {
-	width: 90%;
-	margin: auto;
-}
-
 #midsquare {
 	margin: auto;
 	margin-top: 10vh;
 	width: 80%;
 	height: auto;
-	background-image: url("../channels4_banner.png");
+	background-image: url("../../channels4_banner.png");
 }
 
 #theatre {
@@ -63,8 +50,13 @@ h1{
 }
 
 #scene {
-	width: 100%;
+	width: 50%;
 	padding-top: 10px;
+}
+
+#straat {
+	display: flex;
+	flex-wrap: wrap;
 }
 
 p{
@@ -86,27 +78,29 @@ p{
 @media only screen and (max-width: 800px) {
 	/* for mobile*/
 	
-	#sidebar {
-		transform-origin: top left;
-		transform: scale(0.40);
+	#midsquare	{
+		width: 100%;
 	}
+	
 	
 	#backtomenu{
-		font-weight: bold;
+		transform-origin: top-left;
+		transform: scale(0.3);
 	}
 	
-	#log	{
+	h1	{
+		margin: auto;
+	}
+	
+	#theatre{
 		font-size: 16px;
-	}
-	
-	#pedia {
-		text-align: center;
-		background-color: #d1ce9b;
-		font-weight: bold;
-		font-size: 24px;
+		padding: 20px;
+		width: 85%;
 	}
 
-	
+	#log	{
+		display: none;
+	}
 	
 	h1	{
 		font-size: 30px;
@@ -114,5 +108,15 @@ p{
 	
 	#quote {
 		font-size: 20px;
+	}
+	
+	#scene {
+	width: 100%;
+	padding-top: 10px;
+}
+
+	#straat {
+	display: flex;
+	flex-wrap: wrap;
 	}
 }
