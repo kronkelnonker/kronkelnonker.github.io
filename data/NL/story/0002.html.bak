@@ -1,0 +1,80 @@
+<html>
+	<head>
+		<title>storytime!!</title>
+		<link rel="stylesheet" href="../css/startlayout.css">
+	</head>
+	
+	<body>
+		<div id="backtomenu">
+			<a href="../../index.html"><img src="../../backtoblack.png"></img></a>
+		</div>
+		
+		<div id="midsquare">
+			<div id="theatre">
+				<div class="headercontainer">
+					<div id="prvpage">
+						<a href="../story/0001.html"><img src="../prv.png"></img></a>
+					</div>
+					
+					<div id="titel">[INTRO]</div>
+					
+					<div id="nxtpage">
+						<a href="../story/0003.html"><img src="../nxt.png"></img></a>
+					</div>
+				</div>
+			
+				<h1>
+					<img id="scene" src="../images/0002.png" alt="img0002">
+				</h1>
+				
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left; font-size: 24px;">
+				ZIPI: BLIJF UIT MIJN BUURT!<br>
+				ZIPI: ik heb een wapen en ik ben niet bang om hem te gebruiken!
+				</div>
+				<div style="background-color:#6e2c2c; padding-left: 4px; padding-right: 4px; color: red; text-align: left; font-size: 24px;">
+				OHPI: Kalm aan man, alles is oke :)
+				</div>
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left; font-size: 24px;">
+				ZIPI: IK BEPAAL HIER DE SITUATIE OKE<br>
+				ZIPI: blijf uit mijn buurt alsjeblieft &nbsp ik meen het.<br>
+				ZIPI: ...<br>
+				ZIPI: freaks overal tegenwoordig &nbsp jezus christus<br>
+				</div>
+				<div style="background-color:#6e2c2c; padding-left: 4px; padding-right: 4px; color: red; text-align: left; font-size: 24px;">
+				OHPI: Je hoeft niet zo gemeen over me te praten... Ik moest gewoon even checken!
+				</div>
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left; font-size: 24px;">
+				ZIPI: ??????<br>
+				ZIPI: je hing legit boven mijn hoofd &nbsp kwijlend en al<br>
+				ZIPI: je kan niet doen alsof dat "normaal" is 
+				</div>
+				<div style="background-color:#6e2c2c; padding-left: 4px; padding-right: 4px; color: red; text-align: left; font-size: 24px;">
+				OHPI: Sorry als je dit niet normaal vond;<br>
+				OHPI: het goede nieuws is dat ik niets ongebruikelijks vond tijdens het chec-
+				</div>
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left; font-size: 24px;">
+				ZIPI: het maakt me echt geen BAL uit wat je aan het checken was &nbsp kom vanaf nu nooit meer bij me in de buurt of ik mep je zo hard met mn wapen dat je kaak voortaan diagonaal opengaat
+				</div>
+				<div style="background-color:#6e2c2c; padding-left: 4px; padding-right: 4px; color: red; text-align: left; font-size: 24px;">
+				OHPI: ...<br>
+				OHPI: Alright. Die neem ik mee voor de volgende keer.<br>
+				OHPI: Mijn naam is onthoofdPiet trouwens.<br>
+				</div>
+				
+				
+				<div style="padding-top:10px;" class="headercontainer">
+					<div id="prvpage">
+						<a href="../story/0001.html"><img src="../prv.png"></img></a>
+					</div>
+					
+					<div id="copyright">alle copyrights naar de sinterklaascie</div>
+					
+					<div id="nxtpage">
+						<a href="../story/0003.html"><img src="../nxt.png"></img></a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</body>
+</html>
