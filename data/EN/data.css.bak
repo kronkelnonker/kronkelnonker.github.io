@@ -49,7 +49,7 @@ body{
 }
 
 #log {
-	padding: 5px;
+	padding: 10px;
 	font-weight: bold;
 	color: #white;
 	background-color: #d1ce9b;
@@ -73,18 +73,18 @@ body{
 
 #midsquare {
 	margin: auto;
-	margin-top: 10vh;
+	margin-top: 9vh;
 	width: 80%;
-	height: auto;
 	background-color: #bda013;
+	padding-bottom: 100px;
 }
 
 #theatre {
 	background-color: #E2DDDB;
 	margin: auto;
 	padding: 50px;
+	padding-top: 0px;
 	width: 70%;
-	height: auto;
 }
 
 h1{
@@ -120,7 +120,7 @@ p{
 	
 	#languagebar{
 		transform-origin: top right;
-		transform: scale(0.50);
+		transform: scale(0.45);
 	}
 
 	.langitem{

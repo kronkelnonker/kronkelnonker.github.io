@@ -15,7 +15,7 @@ body{
 	margin-top: 10vh;
 	width: 80%;
 	height: auto;
-	background-image: url("../../../channels4_banner.png");
+	background-color: #bda013;
 }
 
 #theatre {

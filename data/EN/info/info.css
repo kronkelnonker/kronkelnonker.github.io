@@ -1,6 +1,6 @@
 
 body{
-	background-image: url("../pepernotenback.jpg");
+	background-image: url("../../NL/pepernotenback.jpg");
 	height: 100%;
 	margin-top: -100px;
 }
@@ -29,10 +29,10 @@ body{
 
 #midsquare {
 	margin: auto;
-	margin-top: 10vh;
+	margin-top: 9vh;
 	width: 80%;
-	height: auto;
 	background-color: #bda013;
+	padding-bottom: 100px;
 }
 
 #theatre {
@@ -40,7 +40,6 @@ body{
 	margin: auto;
 	padding: 50px;
 	width: 85%;
-	height: auto;
 }
 
 h1{
@@ -50,6 +49,10 @@ h1{
 	box-shadow: 5px 5px black;
 }
 
+h2{
+	margin-bottom: -15px;
+}
+
 #scene {
 	width: 100%;
 	padding-top: 10px;
@@ -57,7 +60,7 @@ h1{
 
 #straat {
 	padding: 8px;
-	display: block;
+	display: flex;
 	flex-wrap: wrap;
 }
 
@@ -112,7 +115,6 @@ p{
 	
 	#scene {
 	width: 100%;
-	padding-top: 10px;
 }
 
 	#straat {

@@ -9,7 +9,8 @@
 	<body>
 		<ul id="languagebar">
 			<li class="langitem"><a href="../NL/data.html">Nederlands</a></li>
-			<li class="langitem"><a href="../EN/data.html">English</a></li>
+			<li class="langitem"><a href="../EN/data.html">English</a></li><br><br><br>
+			<li class="langitem" style="text-align: center;"><a href="info/info.html">INFO ABOUT<br>SINTERKLAAS<br>FOR ENGLISH<br>SPEAKERS<img src="info/info.png"></img></a></li>
 		</ul>
 	
 		<div id="sidebar">
@@ -26,7 +27,7 @@
 			</div>
 			
 			<a href="https://discord.gg/zDFYPFwVef" id="pedia"><div>
-				<h3>JOIN MY DISCORD:</h3>
+				<h3>JOIN THE DISCORD:</h3>
 				<img id="scroll" src="../NL/discorddplogo2.png" alt="discord">
 			</div></a>
 			
