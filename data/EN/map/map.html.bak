@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>DYSTOPIET PIETENPEDIA</title>
+		<title>DYSTOPIET MAP</title>
 		<link rel="stylesheet" href="map.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 	</head>
@@ -12,9 +12,9 @@
 			</div>
 			
 			<div id="log">
-				<h3>Logboek:</h3>
-				&#x28 ben je up to date?! &#x29<br>
-				<a href="chapters/0003.html">25-2-2024 - <br><i>"H1: Een Eerder Avondje"</i></a><br><br>
+				<h3>Journal:</h3>
+				&#x28 are you up to date?! &#x29<br>
+				<a href="chapters/0003.html">25-2-2024 - <br><i>"H1: A Previous Night"</i></a><br><br>
 				<a href="chapters/0001.html">17-1-2024 - <i>"Intro"</i><</a><br><br>
 			</div>
 		</div>
@@ -23,7 +23,7 @@
 			<div id="theatre">
 			
 				<h1>
-								[De Kaart vanaf Heden:]
+								[The Map as of Now:]
 				</h1>
 				
 				<body>
