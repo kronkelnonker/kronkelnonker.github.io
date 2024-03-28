@@ -14,7 +14,7 @@
 			<div id="theatre">
 				<div class="headercontainer">
 					<div id="prvpage">
-						<a href="../chapters/0006.html"><img src="../prv.png"></img></a>
+						<a href="../chapters/0006.html"><img src="../../NL/prv.png"></img></a>
 					</div>
 					
 					<div id="titel">[TO BE CONTINUED...]</div>

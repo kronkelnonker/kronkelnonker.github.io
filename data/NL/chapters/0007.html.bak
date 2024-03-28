@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Chapter 1: Een Eerder Avondje</title>
+		<title>Chapter 2: Zie Ginds Komt De Stoomboot</title>
 		<link rel="stylesheet" href="../css/startlayout.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 	</head>
@@ -20,7 +20,7 @@
 					<div id="titel">[Chapter 2: Zie Ginds Komt De Stoomboot]</div>
 					
 					<div id="nxtpage">
-						<a href="../chapters/einde.html"><img src="../nxt.png"></img></a>
+						<a href="../chapters/0008.html"><img src="../nxt.png"></img></a>
 					</div>
 				</div>
 			
@@ -105,7 +105,7 @@
 				IRPI: Huppelpiet, heb je iets van medische spullen aan boord? Antiritepiet is heftig gewond geraakt. We werden opeens aangevallen en-
 				</div>
 				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
-				HPPI: ohh jee!! Dokter Piet heeft misschien wel iets om haar voet weer beter te maken.
+				HPPI: ohh jee!! Dokter Piet heeft misschien wel iets om haar voet weer beter te maken. Wss heeft hij geen vervangend lichaamsdeel tho...
 				</div>
 				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
 				IRPI: (Hoe weet jij dat haar voe-...)<br>
@@ -339,12 +339,7 @@
 				<div style="padding-left: 4px; padding-right: 4px; background-color: #e04ccf; color: #630f59; text-align: left;;">
 				STPI: ...
 				</div><br>
-				
-				
-				
-				
-				
-				
+			
 				<div style="padding-top:10px;" class="headercontainer">
 					<div id="prvpage">
 						<a href="../chapters/0006.html"><img src="../prv.png"></img></a>
