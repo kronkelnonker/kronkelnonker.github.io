@@ -1,0 +1,223 @@
+<html>
+	<head>
+		<title>storytime!!</title>
+		<link rel="stylesheet" href="../css/startlayout.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	</head>
+	
+	<body>
+		<div id="backtomenu">
+			<a href="../data.html"><img src="../../../backtoblack.png"></img></a>
+		</div>
+		
+		<div id="midsquare">
+			<div id="theatre">
+				<div class="headercontainer">
+					<div id="prvpage">
+						<a href="../chapters/0001.html"><img src="../../NL/prv.png"></img></a>
+					</div>
+					
+					<div id="titel">[INTRO: Hoor de wind waait]</div>
+					
+					<div id="nxtpage">
+						<a href="../chapters/0003.html"><img src="../../NL/nxt.png"></img></a>
+					</div>
+				</div>
+			
+				<h1 style="font-size: 14;">
+					Click here to turn on JV's radio! --> &nbsp&nbsp&nbsp
+					<audio controls class="myAudio">
+						<source src="../../gusic\together\dystopiet\brood.mp3" type="audio/mp3">
+						uhh, ur browser broke.
+						</audio>
+				</h1>		
+				<h1 style="font-size: 14;">	
+					<img id="scene" src="../images/0003.png" alt="img0003">
+				</h1>
+				
+				<div style="margin-top: 20px; padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
+				JV: Man, how I love rules,<br>
+				JV: and laws and stuff.
+				</div>
+				<br><br>
+				
+				
+				<h1 style="font-size: 14;">
+					<img id="scene" src="../images/0004.png" alt="img0004">
+				</h1>
+				
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
+				ZIPI: i want a different room!<br>
+				</div>
+				<br><br>
+				
+				
+				<h1 style="font-size: 14;">
+					<img id="scene" src="../images/0005.png" alt="img0005">
+				</h1>
+				
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
+				ZIPI: seriously how could you ever place someone in the same room as &nbsp """onthoofd piet"""??<br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
+				JV: dont be so quick to judge<br>
+				JV: onthoofdpiet 's probably a real nice guy<br>
+				</div>
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
+				ZIPI: that "real nice guy" of yours has been drooling on me the whole time i was trying to sleep<br>
+				ZIPI: hanging above me and everything &nbsp whole jaw around me &nbsp you cant make this shit up!<br>
+				ZIPI: seriously you dont see it at first glance but that mouth could fit a whole horse<br>
+				ZIPI: if i had woken up maybe even 1 second later his guilloting-like teeth would have gotten me<br>
+				ZIPI: i'm not going back to that room!!<br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
+				JV: ok<br>
+				JV: alright sure<br>
+				JV: i'll find someone else who can take your room, no problem<br>
+				</div>
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
+				ZIPI: dont be like that &nbsp i paid a great sum of pepernoten* to stay here<br>
+				ZIPI: is there really no other room available?<br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
+				JV: with our economy in this state?<br>
+				JV: take a guess<br>
+				</div>
+				<br><br>
+				
+				
+				<h1 style="font-size: 14;">
+					<img id="scene" src="../images/0006.png" alt="img0006">
+				</h1>
+				
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
+				JV: see this:<br>
+				JV: this clear to you?<br>
+				</div>
+				<br><br>
+				
+				
+				<h1 style="font-size: 14;">
+					<img id="scene" src="../images/0007.gif" alt="img0007">
+				</h1>
+				
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
+				ZIPI: good god &nbsp you must be joking &nbsp these pieten dont even exist and you know it<br>
+				ZIPI: after the incident i've met so many ridiculous pieten but surpasses everything<br>
+				ZIPI: i swear &nbsp Spencer-van-ICarly piet* is someone you made up<br>
+				ZIPI: <br>
+				ZIPI: you're filling spots in that list with fake names so that poor guys like me can't take the good rooms <br>
+				ZIPI: yeah thats it<br>
+				ZIPI: you want to protect an image<br>
+				ZIPI: 'oh yess my hostel is first class &nbsp ah all spots are full OOPS SORRY'<br>
+				ZIPI: who even opens a hostel during the apocalypse &nbsp jesus<br>
+				ZIPI: so damn vain<br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
+				JV: Man, calm down;<br>
+				</div>
+				<div style="font-size: 14px; padding-left: 4px; padding-right: 4px; text-align: left;">
+				<a href="https://icarly.fandom.com/wiki/Spencer_Shay"><i>* "Spencer van ICarly"</i></a>
+				</div><br><br>
+				
+				<h1 style="font-size: 14;">
+					<img id="scene" src="../images/0008.png" alt="img0008">
+				</h1>
+				
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
+				JV: Yo;<br>
+				JV: Spencer?<br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#1581b0; color: white; text-align: left;">
+				??: Hm-<br>
+				??: Whats up?<br>
+				</div>
+				
+				<h1 style="font-size: 14;">
+					<img id="scene" src="../images/0009.png" alt="img0009">
+				</h1>
+				
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#1581b0; color: white; text-align: left;">
+				SVIP: Hey Jurgen,<br>
+				SVIP: Is something wrong?<br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
+				JV: Oh no, sorry. Don't worry about it.<br>
+				JV: I fixed it already. <br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#1581b0; color: white; text-align: left;">
+				SVIP: Ah great. Then I'll be heading back to my room.
+				</div>
+				<br>
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
+				ZIPI: <br>
+				</div>
+				<br><br>
+				
+				
+				<h1 style="font-size: 14; max-height: 200px; max-width: 200px; padding-bottom: 50px; ">
+					<img id="scene" src="../images/0010.png" alt="img00010">
+				</h1>
+				
+				<div style="background-color:#a89c2c; padding-left: 4px; padding-right: 4px; color: yellow; text-align: left;">
+				ZIPI: ah.<br>
+				</div>
+				<br>
+				
+				<h1>
+					<img id="scene" src="../images/0011.png" alt="img00011">
+				</h1><br><br>
+				
+				<h1>
+					<img id="scene" src="../images/0012.png" alt="img0012">
+				</h1>
+
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left;">
+				JV: Drama queen.
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0013.png" alt="img0003">
+				</h1><br><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0014.png" alt="img0003">
+				</h1><br><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0015.png" alt="img0003">
+				</h1>
+				
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;">
+				AIPI: have you found a staff like this lying somewhere?<br>
+				AIPI: we're looking for someone with a staff like this one.<br>
+				</div><br><br>
+				
+				<div style="padding-top:10px;" class="headercontainer">
+					<div id="prvpage">
+						<a href="../chapters/0001.html"><img src="../../NL/prv.png"></img></a>
+					</div>
+					
+					<div id="copyright">all copyrights go to the sinterklaascie</div>
+					
+					<div id="nxtpage">
+						<a href="../chapters/0003.html"><img src="../../NL/nxt.png"></img></a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</body>
+	
+	<script>
+	function setGlobalAudio(vol)
+	{
+		const audio = document.getElementsByClassName("myAudio");
+		for (let i = 0; i < audio.length; i++)
+		audio[i].volume = vol; 
+	}
+	setGlobalAudio(0.2);
+	</script>
+	
+	
+</html>

@@ -1,0 +1,375 @@
+<html>
+	<head>
+		<title>Chapter 2: Zie Ginds Komt de Stoomboot</title>
+		<link rel="stylesheet" href="../css/startlayout.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	</head>
+	
+	<body>
+		<div id="backtomenu">
+			<a href="../data.html"><img src="../../../backtoblack.png"></img></a>
+		</div>
+		
+		<div id="midsquare">
+			<div id="theatre">
+				<div class="headercontainer">
+					<div id="prvpage">
+						<a href="../chapters/0006.html"><img src="../../NL/prv.png"></img></a>
+					</div>
+					
+					<div id="titel">[Chapter 2: Zie Ginds Komt de Stoomboot]</div>
+					
+					<div id="nxtpage">
+						<a href="../chapters/einde.html"><img src="../../NL/nxt.png"></img></a>
+					</div>
+				</div>
+			
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0052.png" alt="mappe">
+				</h1><br>
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0054.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: Wow, she's fast!<br>
+				IRPI: She's so far down I can barely see her under the clouds<br>
+				IRPI: If she manages to escape along these steel beams we'll never be able to catch up to her...<br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
+				AIPI: shouldn't be a problem with that insane agility of hers<br>
+				AIPI: she's like a cat or something
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: I can barely see her anymore...
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0053.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
+				AIPI: oh shit
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: Who are they...?
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0055.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: Huppelpiet.
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
+				AIPI: speak of the devil
+				</div><br>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
+				HPPI: heeeey over here!
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0056.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
+				HPPI: long time no see huuuhh?
+				HPPI: interesting to know that you two are still alive
+				HPPI: are you still holding up together?
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: ...
+				IRPI: always nice to see you too Huppelpiet.
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
+				HPPI: as you can see I managed to find some comrades after we split up that time<br> 
+				HPPI: because you know, more pieten, more gezellig!*<br>
+				HPPI: it also makes life more comfortable to have a crew<br>
+				HPPI: and this boat is, like, so awesome!!<br>
+				HPPI: if you'd like, you could come along with me like the good old days?<br>
+				HPPI: im, like, kinda forgiving yk
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: No thanks, we'd rather go on our ow-
+				</div>
+				<div style="font-size: 14px; padding-left: 4px; padding-right: 4px; text-align: left;">
+				<i>* "Gezellig" is a nigh untranslatable dutch word, meant to describe something like a nice vibe or mood that comes with being with others.</i>
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/00592.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
+				AIPI: ...
+				</div><br>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: ...
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0057.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: Huppelpiet, do you by chance have any medical equipment on the ship? Antiritepiet is heavily wounded. We were attacked and- 
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
+				HPPI: ohh nooo! Doctor Piet should maybe be able to help her? I don't think we have any spare limbs around tho...
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: (How do you even know about her foo-...)<br>
+				IRPI: ...Ok, fine.
+				</div><br>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
+				HPPI: bouwpiet*, tractorpiet, help my besties get on the ship. and prepare their room
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: i'll help myself, thank you.
+				</div>
+				<div style="font-size: 14px; padding-left: 4px; padding-right: 4px; text-align: left;">
+				<i>* "Bouwen" is the dutch verb for "to build".</i>
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0058.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
+				HPPI: you don't always have to be such a lone wolf you know<br>
+				HPPI: this place is being managed tip top. by me!!<br>
+				HPPI: besides, i could use some more help<br>
+				HPPI: you see, i know that, like, you know where the staff-
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: We don't have the staff.
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
+				HPPI: yea ik dumpass,<br>
+				HPPI: but you just... "encountered"... someone who might know more?
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: (How do you know-...!!)
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
+				HPPI: don't you think its very important that someone who is worthy fulfills the prophesy, right?<br>
+				HPPI: you do know the prophesy?
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0059.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: Yes, of cours-
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; font-family: Lucida Handwriting;  text-align: center;">
+				<br>HPPI: Sinterklaas, die goede heer<br>
+				daalt weer op zijn pieten neer,<br>
+				in het land van daken.<br>
+				Uit de piet die samenbrengt:<br>
+				boek en mijter; staf verlengd.<br>
+				en de mantel van oranje.*<br><br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
+				HPPI: we are on our way to collect the staff thats described in the prophesy. You consider this important too so if you want you can join us collect it from him.
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: How do you know where it is? And that someo-
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
+				HPPI: i've got my sources.<br>
+				HPPI: see, thats what you get when you work together!!<br>
+				HPPI: so, will you work with me?
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: ...<br>
+				IRPI: Ok.
+				</div>
+				<div style="font-size: 14px; padding-left: 4px; padding-right: 4px; text-align: left;">
+				<i>* This wouldn't rhyme in english. It states how Sinterklaas will return once someone gathers his book, mitre, staff and cloak.</i>
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0060.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
+				HPPI: nice! awesome!
+				HPPI: oooone small thing: within teamwork everyone has to do their part. of course then, you are now also part of my crew.<br> 
+				HPPI: you respond to Stoelpiet's orders. She also manages your stay, so if you have any questions you can talk to her<br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color: #e04ccf; color: #630f59; text-align: left;;">
+				STPI: 
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0061.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color: #e04ccf; color: #630f59; text-align: left;;">
+				STPI: Hey
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: !!!
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#40b50e; color: #f7e80f; text-align: left;;">
+				HPPI: get to know each other! you'll probably get along real well<br>
+				HPPI: well, move along nog. Stoelpiet, show Iritepiet her bed.
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0062.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: ...
+				IRPI: I haven't seen you before,
+				IRPI: Are you from far?
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color: #e04ccf; color: #630f59; text-align: left;;">
+				STPI: ...
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: How did you get on this ship? Did you know Huppelpiet already? Or encounter her? Or...
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color: #e04ccf; color: #630f59; text-align: left;;">
+				STPI: ...
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: You dont talk, huh.
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color: #e04ccf; color: #630f59; text-align: left;;">
+				STPI: Shut up.
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: ...<br>
+				IRPI: Well...<br>
+				IRPI: Huppelpiet always boasted about knowing every bizarre themed piet, <br>but she never said anything about a "Stoelpiet*".<br>
+				IRPI: What, is there also a "Zitpiet**"? Hahahaha<br>
+				IRPI: Hahaha<br>
+				IRPI: Ha-<br>
+				</div>
+				<div style="font-size: 14px; padding-left: 4px; padding-right: 4px; text-align: left;">
+				<i>* "Stoel" is the dutch word for chair. **"Zitten" is the dutch verb for "to sit".</i>
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0063.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color: #e04ccf; color: #630f59; text-align: left;;">
+				STPI: I don't care what you do outside of this ship or our operation, but try this kinda bullshit again and its over, ok?
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: ...<br>
+				</div>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0064.png" alt="mappe">
+				</h1><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0065.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color: #e04ccf; color: #630f59; text-align: left;;">
+				STPI: I'm expecting you on deck in an hour for attendance when we arrive at the church.
+				</div><br>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: Antiritepiet!!
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
+				AIPI: iritepiet!
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0066.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: Are you any better??<br>
+				IRPI: How was doctorpiet?
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
+				AIPI: "Dokter Piet"<br>
+				AIPI: i'm doing fine.<br>
+				AIPI: it doesn't hurt anymore<br>
+				AIPI: but they didn't have any alternative for the fake hand-foot.<br>
+				AIPI: i guess i'm three-handed now<br>
+				AIPI: juggling champion<br>
+				AIPI: or something<br>
+				AIPI: ...<br>
+				AIPI: honestly I'd like to have my ond foot back, or some alterative, but oh well.<br>
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: Weird how doctorpiet doesn't even have a peg leg on board or anything. That's a boat-thing ain't it?
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
+				AIPI: i guess?<br>
+				AIPI: and like I said, it's "Dokter Piet"; not doctorpiet but Dokter Piet.
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: Ah, sorry.
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
+				AIPI: he's so cool<br>
+				AIPI: i'd almost chop off my own leg to receive his help again.
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: Hahahaha
+				</div><br>
+				
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
+				AIPI: ...<br>
+				AIPI: so huppelpiet ain't the worst, huh?
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0067.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: I don't balieve a thing she says.<br>
+				IRPI: It's just too suspicious!<br>
+				IRPI: She knows too much about us and what occured with the fight that broke out and everything.<br>
+				IRPI: I think she has a hidden motive.<br>
+				IRPI: I was even sorta threatened by Stoelpiet
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
+				AIPI: Jesus.
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: Its just nice that we can travel along with them. She says that she has the same intention as we do so if that were true we're in the right place.<br>
+				IRPI: Lets wait and maybe snoop around the ship.<br>
+				IRPI: Know if other pieten know something.<br>
+				IRPI: Maybe one of them is her source of information?<br>
+				IRPI: ...<br>
+				IRPI: Maybe that is why she knows more about the prophesy?!<br>
+				IRPI: Or maybe I'm stretching things haha
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#d43b33; color: #b6d192; text-align: left;;">
+				AIPI: if we know more maybe we could pull some stunt ourselves<br>
+				AIPI: steal the staff in front of them when we are at location.<br>
+				AIPI: just saying.
+				AIPI: maybe we'll find that insane piet again and get back my foot!!
+				</div>
+				<div style="padding-left: 4px; padding-right: 4px; background-color:#b6d192; color: #d43b33; text-align: left;;">
+				IRPI: Sounds like a plan.
+				</div><br><br>
+				<div style="padding-left: 4px; padding-right: 4px; background-color: #e04ccf; color: #630f59; text-align: left;;">
+				STPI:
+				</div><br>
+				
+				<h1 style="font-size: 14; ">
+					<img id="scene" src="../images/0068.png" alt="mappe">
+				</h1>
+				<div style="padding-left: 4px; padding-right: 4px; background-color: #e04ccf; color: #630f59; text-align: left;;">
+				STPI: ...
+				</div><br>
+			
+				
+				
+				
+				<div style="padding-top:10px;" class="headercontainer">
+					<div id="prvpage">
+						<a href="../chapters/0006.html"><img src="../../NL/prv.png"></img></a>
+					</div>
+					
+					<div id="copyright">all copyrights go to the sinterklaascie</div>
+					
+					<div id="nxtpage">
+						<a href="../chapters/einde.html"><img src="../../NL/nxt.png"></img></a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</body>
+</html>

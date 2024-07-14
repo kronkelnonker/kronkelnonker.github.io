@@ -1,11 +1,65 @@
 html, body {
     overflow: hidden;
 	height: 100%;
-	background-image: url("mainback.gif");
+	background-image: url("portfoliofoto.png");
 	background-repeat: no-repeat;
-	background-position: center;
-	background-size: contain;
 	background-color: black;	
+}
+
+#infobox {
+	position: absolute;
+	
+	display: flex;
+	flex-direction: column;
+	
+	width: 100%;
+	height: 100%;
+	
+}
+
+#colorbox {
+    padding: 1%;
+	padding-top: 1%;
+    
+	margin-top: -1%;
+	margin-right: 5%;
+    margin-left: auto;
+	
+    height: 100%;
+	width: 20%;
+    background-color: #f6eee3;
+    box-shadow: inset 5px 5px 5px 0 rgba(255,255,255,0.8), inset -1px -1px 1px 0 rgba(0,0,0,0.5);
+    
+	display: flex;
+    flex-direction: column;
+}
+
+#portfoliofoto {
+	margin: auto;
+	margin-bottom: 2%;
+	margin-top: 10%;
+	height: 30%;
+}
+
+#textinfo{
+	padding: 3%;
+	padding-top: 1%;
+	font-family: Floris;
+    font-size: 48px;
+	color: black;
+    text-align: center;
+}
+
+#textinfo2{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3%;
+    padding-top: 1%;
+    font-family: Floris;
+    font-size: 24px;
+    color: black;
+    clear: left;
+    text-align: justify;
 }
 
 .voorwoord {
@@ -33,6 +87,7 @@ html, body {
     transform: rotate(3deg);
     display: flex;
     margin: auto;
+	margin-right: 20%;
 	height: 100%;
 }
 
@@ -56,7 +111,7 @@ html, body {
 }
 
 .column:hover {
-  flex-grow: 10.3;
+  flex-grow: 3.3;
 }
 
 

@@ -1,0 +1,122 @@
+
+body{
+	background-image: url("../pepernotenback.jpg");
+	height: 100%;
+	margin-top: -100px;
+}
+
+#backtomenu {
+	position: absolute;
+	top: 10px;
+}
+
+#midsquare {
+	margin: auto;
+	margin-top: 9vh;
+	width: 80%;
+	background-color: #bda013;
+}
+
+#theatre {
+	background-color: #E2DDDB;
+	margin: auto;
+	padding: 50px;
+	width: 70%;
+	font-size: 24px;
+}
+
+h1{
+	font-size: 56px;
+	text-align: center;
+	background-color: white;
+}
+
+#scene {
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #0a0714;
+}
+
+p{
+	padding: 8px;
+	font-size: 20px;
+	background-color: white;
+	margin-bottom: 50px;
+}
+
+.headercontainer {
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#prvpage {
+}
+
+#space {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#titel {
+	padding-top: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-weight: bold;
+	font-size: 48px;
+}
+
+#copyright {
+	padding-left: 140px;
+	padding-right: 140px;
+	font-weight: bold;
+	font-size: 10px;
+}
+
+#nxtpage {
+}
+
+@media screen and (max-width: 800px) {
+	/* for mobile*/
+	
+	#midsquare	{
+		width: 100%;
+	}
+	
+	
+	#backtomenu{
+		transform: scale(0.3);
+		top: -70px;
+		left: -70px;
+	}
+	
+	h1	{
+		margin: auto;
+	}
+	
+	#theatre{
+		font-size: 16px;
+		padding: 20px;
+		width: 85%;
+	}
+	
+	#prvpage {
+		transform: scale(0.40);
+		margin-right: -60px;
+	}
+
+	#nxtpage {
+		transform: scale(0.40);
+		margin-left: -60px;
+	}		
+	
+	#copyright {
+		padding-left: 40px;
+		padding-right: 40px;
+		margin: auto;
+	}
+}
+

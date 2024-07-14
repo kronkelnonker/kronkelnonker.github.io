@@ -1,0 +1,66 @@
+<html>
+	<head>
+		<title>storytime!!</title>
+		<link rel="stylesheet" href="../css/startlayout.css">
+	</head>
+	
+	<body>
+		<div id="backtomenu">
+			<a href="../../index.html"><img src="../../backtoblack.png"></img></a>
+		</div>
+		
+		<div id="midsquare">
+			<div id="theatre">
+				<div class="headercontainer">
+					<div id="prvpage">
+						<a href="../story/0002.html"><img src="../prv.png"></img></a>
+					</div>
+					
+					<div id="titel">[INTRO]</div>
+					
+					<div id="nxtpage">
+						<a href="../story/0004.html"><img src="../nxt.png"></img></a>
+					</div>
+				</div>
+			
+				<div style="margin-top: 20px; padding-left: 4px; padding-right: 4px; background-color:#52565e; color: white; text-align: left; font-size: 24px;">
+				JV: Man wat houd ik van regels,<br>
+				JV: en van wetten enzo.
+				</div>
+			
+				<h1 style="font-size: 14;">
+					Zet JV's radio hier aan! --> &nbsp&nbsp&nbsp
+					<audio controls class="myAudio">
+						<source src="../images/0003.mp3" type="audio/mp3">
+						uhh je browser doet het niet.
+						</audio>
+					<img id="scene" src="../images/0003.png" alt="img0003">
+				</h1>
+				
+				<div style="padding-top:10px;" class="headercontainer">
+					<div id="prvpage">
+						<a href="../story/0002.html"><img src="../prv.png"></img></a>
+					</div>
+					
+					<div id="copyright">alle copyrights naar de sinterklaascie</div>
+					
+					<div id="nxtpage">
+						<a href="../story/0004.html"><img src="../nxt.png"></img></a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</body>
+	
+	<script>
+	function setGlobalAudio(vol)
+	{
+		const audio = document.getElementsByClassName("myAudio");
+		for (let i = 0; i < audio.length; i++)
+		audio[i].volume = vol; 
+	}
+	setGlobalAudio(0.1);
+	</script>
+	
+</html>
