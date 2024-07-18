@@ -1,7 +1,7 @@
 html, body {
     overflow: scroll;
 	height: 100%;
-	background-image: url("background.png");
+	background-image: url("../background.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: black;	
@@ -75,8 +75,8 @@ html, body {
 #textheader{
 	font-size:96px;
 	font-family: Floris;
-	color: saddlebrown;
-	-webkit-text-stroke-width: 1.5px;
+	color: whitesmoke;
+	-webkit-text-stroke-width: 2px;
 	-webkit-text-stroke-color: black;
 	padding-bottom: 1%;
 	padding-top: 2%;
@@ -100,11 +100,18 @@ html, body {
 }
 
 .flexoption{
-  	padding: 1%;
-	
+  	padding-left: 1%;
+	display:flex;
+	flex-direction: row;
+	align-items:flex-start;
 }
 
 .flexoption img {
 	max-width: 100%;
+	
 }
 
+.foto {
+	max-width: 100%;
+	
+}

@@ -72,6 +72,8 @@ html, body {
 
 .centerbox {
     position: absolute;
+	overflow: hidden;
+	
 	
 	height: 100%;
 	width: 60%;
@@ -89,9 +91,10 @@ html, body {
 }
 
 .flexoption{
-	vertical-align: middle;
   	padding: 1%;
   	display: table-cell;
+	max-width: 20vh;
+	vertical-align: top;
 	
 }
 

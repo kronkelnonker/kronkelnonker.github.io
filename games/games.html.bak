@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>GAMES</title>
+		<link rel="stylesheet" href="games.css">
+	</head>
+	<body>
+		<div class="row">
+			<div class="link" id="crack" >
+				<a href="https://kronkelnonker.itch.io/crack-quest"><img src="crackquest.png" id="game"></img></a>
+			</div>
+			<div class="link" id="wurg">
+				<a href="https://kronkelnonker.itch.io/westwoud-wurgpartij"><img src="westwoudwurg.png" id="game"></img></a>
+			</div>
+			<div class="link" id="race">
+				<a href="https://kronkelnonker.itch.io/super-marin-racing-bros"><img src="marienracing.png" id="game"></img></a>
+			</div>
+		</div>
+		<div id="backtomenu">
+			<a href="../index.html"><img src="../backtostart.png"></img></a>
+		</div>
+	</body>
+</html>

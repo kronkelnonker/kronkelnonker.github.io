@@ -1,0 +1,76 @@
+body {
+	background-image: url("dansenbackgroen.png");
+	height: 100%;
+	
+}
+
+.row {
+	border: 20px solid #b7c4b3;
+}
+
+#textinfo{
+	padding: 3%;
+	padding-top: 1%;
+	padding-bottom: 0%;
+	font-family: Floris;
+    font-size: 36px;
+	color: black;
+	
+	margin-right: auto;
+    margin-left: auto;
+    clear: left;
+    text-align: justify;
+}
+
+#textinfo2{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3%;
+	padding-bottom: 1%;
+    padding-top: 0;
+    font-family: Floris;
+    font-size: 24px;
+    color: black;
+    clear: left;
+    text-align: justify;
+}
+
+
+#backtomenu {
+	top: -1vh;
+	left: -1vh;
+	transform-origin: center center;
+	position:fixed;
+	
+}
+
+.centerbox {
+    position: absolute;
+	overflow: hidden;
+	flex-direction: column;
+	
+	height: auto%;
+	width: 80%;
+	
+	padding: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-top: -1%;
+	margin-right: 15%;
+	margin-left: 10%;
+	
+	background-color: #f6eee3;
+	
+	display: table;
+}
+
+.flexoption{
+  	padding: 1%;
+  	display: table-cell;
+	vertical-align: top;
+	
+}
+
+.flexoption img {
+	max-width: 100%;
+}
