@@ -102,3 +102,31 @@ html, body {
 	max-width: 100%;
 }
 
+@media only screen and (max-width: 800px) {
+	/* for mobile*/
+	
+#infobox {
+	display: none;
+}
+
+.centerbox {
+    position: absolute;
+	overflow: hidden;
+	
+	height: auto;
+	width: 80%;
+	
+	padding: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-top: 10%;
+	margin-bottom: auto;
+	margin-right: 10%;
+	margin-left: 5%;
+	
+	background-color: #f6eee3;
+	
+	display: table;
+}
+}
+

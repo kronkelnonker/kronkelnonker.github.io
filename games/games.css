@@ -49,7 +49,7 @@ body {
 	overflow: hidden;
 	flex-direction: column;
 	
-	height: auto%;
+	height: auto;
 	width: 80%;
 	
 	padding: 1%;
@@ -73,4 +73,15 @@ body {
 
 .flexoption img {
 	max-width: 100%;
+}
+
+@media only screen and (max-width: 800px) {
+	/* for mobile*/
+#backtomenu {
+	top: -1vh;
+	left: -1vh;
+	transform-origin: left top;
+	position:fixed;
+	transform: scale(0.40);
+	}
 }

@@ -63,4 +63,9 @@ p{
 	#nxtpage {
 		transform: scale(0.30);
 	}
-{
+	
+	#backtomenu {
+		transform: scale(0.30);
+		transform-origin: top left;
+}
+}

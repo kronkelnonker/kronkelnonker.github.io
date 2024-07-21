@@ -119,3 +119,39 @@ h2 {
 	top: 200px;
 	left: 30px;
 }
+
+@media only screen and (max-width: 800px) {
+	/* for mobile*/
+
+	body {
+	flex-direction:column;
+	justify-content: flex-start;
+}
+	
+	#schreeuw {
+	font-size: 15px;
+	height: 90px;
+	width: 90px;
+	position: fixed;
+	top: 130px;
+	left: 10px;
+	font-weight: bold;
+	
+}
+
+	#backtomenu {
+	top: -1vh;
+	left: -1vh;
+	transform-origin: top left;
+		transform:scale(0.4);
+	position:fixed;
+	
+}
+	#guramid {
+	height: 40px;
+	width: 40px;
+	position: fixed;
+	top: 80px;
+	left: 10px;
+}
+}
