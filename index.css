@@ -17,7 +17,7 @@ html, body {
     padding: 1%;
 	padding-top: 1%;
     
-	margin-top: -1%;
+	margin-top: -2%;
 	margin-right: 5%;
     margin-left: auto;
 	
@@ -110,6 +110,7 @@ html, body {
   flex-grow: 3.3;
 }
 
+
 @media only screen and (max-width: 800px) {
 	/* for mobile*/
 
@@ -143,7 +144,7 @@ html, body {
     padding: 3%;
     padding-top: 1%;
     font-family: Floris;
-    font-size: 18px;
+    font-size: 15px;
     color: black;
     clear: left;
     text-align: justify;
@@ -154,10 +155,10 @@ html, body {
 	
   	writing-mode: horizontal-tb; 
 	transform:scale(1);
-	font-size: 24px;
+	font-size: 20px;
 	
 	text-align: center;
-	padding: 2%;
+	padding: 0.5%;
 	height: auto;
 	
 	
@@ -174,7 +175,8 @@ html, body {
     transform: rotate(0deg);
     display: flex;
     margin: auto;
-	margin-right: 30%;
+	
+	margin-right: 5%;
 	height: 100%;
 }
 
@@ -182,6 +184,8 @@ html, body {
     transform: rotate(0deg);
     display: flex;
     margin: auto;
+	margin-left: 5%;
+	
 	width: 70%;
 	height: 60%;
 }
@@ -193,12 +197,8 @@ html, body {
 }
 
 .foto {
-  padding-left: 20px;
+  padding-left: 0px;
 	height: 100%;
-}
-
-.column:hover {
-  flex-grow: 3.3;
 }
 
 }
